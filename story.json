@@ -5,5 +5,12 @@
     "img": "banner1.1",
     "blurred": true,
     "content": "Unlike Android, Apple@@ doesn't provide any default theming options to their devices. Although limited icon theming is possible with an unjailbroken device, many users have found out that the process is highly inefficient. With jailbreaking, users are able to unlock the full potentials of icon theming\n\n!| snowboard_banner | Snowboard is currently the most popular theming engine. It supports iOS 7+.\n\nWith appropriate theming engines such as SnowBoard, Anemone, or iThemer, users can easily change the appearance of app icons, notification badges, dock labels, and even system glyphs.\n\nAs more and more devices are becoming eligible to jailbreaking, develops, and designers race to create the ideal themes to appeal their customers. With thousands of theming packages that alter the appearances of the majority of iOS apps, theming can allow devices to stand unique to others."
+  },
+  {
+    "id": "pod_repprovision",
+    "header": ["Package of the day", "ReProvision", "On-device signing utility for iOS"],
+    "img": "package_banner",
+    "blurred": true,
+    "input": "ReProvision is a package@@ created by Matt Clarke as a jailbreak tool to sign IPA files. Although many other signing services exist, most of them require a connection with a computer to work.\n\nTake Cydia Impactor, for example, users are required to connect their devices to a computer in order to sign IPA files. As the time of writing this article, a popular alternative, AltStore, also requires users to connect to a computer.\n\nReProvision provides users the powerful ability to sign IPA files on-device, all they need is an internet connection and their Apple ID. Many users are hesitant to enter their credentials into an unfamiliar app. However, ReProvision\'s signing process only sends such data to Apple, so there is no risk of data theft."
   }
 ]
