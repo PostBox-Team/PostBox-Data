@@ -16,7 +16,7 @@
   {
     "id": "pod_byeseparatorscell",
     "header": ["Make our phone look cleaner", "ByeSeparatorsCell", "Removes cell separators system wide"],
-    "img": "UNKNOWN",
+    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/loading.png",
     "blurred": true,
     "content": "A separator, or divider, allow users to visually seperate components and create color contrast. In pages with large amounts of information, such as Settings or App Store, these separators can be a pain in the eye as they clutter up the already limited screen size of iPhones.\n\nByeSeparatorsCell is a free tweak that allows users to disable these ugly bars in exchange for a cleaner iOS experience.\n\nAside from disabling separators, the tweak also enables users to select what separators they want to turn off, such as Contacts or 3D Touch Menus Separators. Users also have the option to remove the spacing between cells.\n\nBeing a free tweak, ByeSeparatorsCell is a highly recommended tweak that unlocks the option for users to achieve their optimal system appearance."
   }
