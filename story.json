@@ -6,7 +6,7 @@
     "topic": "Reasons to Jailbreak",
     "img": "banner1.1",
     "content": "<span style=\"color: #fff\">**Unlike Android, Apple**</span> doesn't provide any default theming options to their devices. Although limited icon theming is possible with an unjailbroken device, many users have found out that the process is highly inefficient. With jailbreaking, users are able to unlock the full potentials of icon theming\n\n!| snowboard_banner | Snowboard is currently the most popular theming engine. It supports iOS 7+.\n\nWith appropriate theming engines such as SnowBoard, Anemone, or iThemer, users can easily change the appearance of app icons, notification badges, dock labels, and even system glyphs.\n\nAs more and more devices are becoming eligible to jailbreaking, develops, and designers race to create the ideal themes to appeal their customers. With thousands of theming packages that alter the appearances of the majority of iOS apps, theming can allow devices to stand unique to others. \n\n <i>Written by @polarizz39 on June 11, 2020</i>\n\n Mistakes happen, if you find any misinterpretations in the article, please contact the author.",
-    "tags": []
+    "tags": ["guide"]
   },
   {
     "id": "pod_reprovision",
@@ -15,7 +15,7 @@
     "topic": "Package of the day",
     "img": "package_banner",
     "content": "<span style=\"color: #fff\">**ReProvision is a**</span> package created by Matt Clarke as a jailbreak tool to sign IPA files. Although many other signing services exist, most of them require a connection with a computer to work.\n\nTake Cydia Impactor, for example, users are required to connect their devices to a computer in order to sign IPA files. As the time of writing this article, a popular alternative, AltStore, also requires users to connect to a computer.\n\nReProvision provides users the powerful ability to sign IPA files on-device, all they need is an internet connection and their Apple ID. Many users are hesitant to enter their credentials into an unfamiliar app. However, ReProvision's signing process only sends such data to Apple, so there is no risk of data theft. \n\n <i>Written by @polarizz39 on June 21, 2020</i>\n\n Mistakes happen, if you find any misinterpretations in the article, please contact the author.",
-    "tags": []
+    "tags": ["tweak"]
   },
   {
     "id": "pod_byeseparatorscell",
@@ -24,7 +24,7 @@
     "topic": "Package of the day",
     "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/loading.png",
     "content": "<span style=\"color: #fff\">**A sperator, or**</span> divider, allow users to visually seperate components and create color contrast. In pages with large amounts of information, such as Settings or App Store, these separators can be a pain in the eye as they clutter up the already limited screen size of iPhones.\n\nByeSeparatorsCell is a free tweak that allows users to disable these ugly bars in exchange for a cleaner iOS experience.\n\nAside from disabling separators, the tweak also enables users to select what separators they want to turn off, such as Contacts or 3D Touch Menus Separators. Users also have the option to remove the spacing between cells.\n\nBeing a free tweak, ByeSeparatorsCell is a highly recommended tweak that unlocks the option for users to achieve their optimal system appearance. \n\n <i>Written by @polarizz39 on July 7, 2020</i>\n\n Mistakes happen, if you find any misinterpretations in the article, please contact the author.",
-    "tags": []
+    "tags": ["tweak"]
   },
   {
     "id": "youtube4k",
@@ -33,6 +33,6 @@
     "topic": "Reasons to Jailbreak",
     "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/youtube4kbanner.png",
     "content": "<span style=\"color: #fff\">**Since the introduction**</span> of iOS 14, Apple has enabled VP9 support in the native YouTube app. Previously, the standard video codec for Apple devices was H.265, while YouTube had been using VP9 for streaming videos with 4k resolution or higher.\n\n As a comparison, H.265 is newer and more efficient than Google’s VP9 codec. However, H.265 comes with a licensing fee, which is likely the reason why YouTube hasn’t adopted the use of that codec. As a result, some people confuse H.265 as incapable of playing back 4k videos. This is not the case as YouTube only allows uploading videos with the VP9 codec, restricting Apple devices using H.265 from playing back 4k content.\n\n With the basic knowledge aside, the ability to playback 4k videos made iOS 14 an enticing upgrade, but is it really worth losing the privilege of jailbreak? Here are some tweaks that allows users to enable 4k playback even on devices running iOS 13. (It is possible that iOS 11-12 are also supported)\n\n Made by developer @iJulioVerne, YTHDUnlocker enables 1440p and above playback along with the support of HDR. However, as of the time of writing this article, the tweak only supports YouTube app version 15.18.4 and 15.19. (Use AppStore++ to downgrade) A newer tweak, YTUHD SW, developed by @PoomSmart, makes 4k playback possible on the latest versions of YouTube, at the cost of losing HDR support.\n\n Many of you may ask, iPhone screens do not have a resolution of 4k, why even bother installing these tweaks? However, it is proven that 4k videos look much clearer than 1080p, even on an iPhone 11. (The author of this article uses an iPhone 11) Such examples of downscaling can be found in video games, such as Grand Theft Auto V. If a player with a 1080p display sets the frame scaling to 200%, the game will render at 3840x2160 (4k) and downscales it to 1080p. The result is a higher quality game render.\n\n In the end, if you want to obliterate your battery life and have the maximum YouTube viewing experience possible, do not hesitate to try out the tweaks mentioned above.\n\n <i>Written by @polarizz39 on August 6, 2020</i>\n\n Mistakes happen, if you find any misinterpretations in the article, please contact the author.",
-    "tags": []
+    "tags": ["guide", "tweak"]
   }
 ]
