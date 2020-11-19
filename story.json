@@ -19,7 +19,7 @@
   }, 
   {
     "id": "Test story",
-    "type": "bigcard",
+    "type": "smallcard",
     "title": "4K YouTube Playback",
     "description": "No pixels as far as the eye can see.",
     "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/youtube4kbanner.png",
