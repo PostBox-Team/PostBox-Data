@@ -2,6 +2,8 @@
   {
     "id": "app_theming",
     "type": "StoryCardBig",
+    "author": "@polarizz39",
+    "authorDesc": "Lead Designer @PostBoxTeam",
     "title": "App Theming",
     "description": "Change the way your app icons appear",
     "img": "banner1.1",
@@ -11,6 +13,8 @@
   {
     "id": "youtube4k",
     "type": "StoryCardSmall",
+    "author": "@polarizz39",
+    "authorDesc": "Lead Designer @PostBoxTeam",
     "title": "4K YouTube Playback",
     "description": "No pixels as far as the eye can see.",
     "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/youtube4kbanner.png",
@@ -20,6 +24,8 @@
   {
     "id": "Test story",
     "type": "StoryCardBig",
+    "author": "@polarizz39",
+    "authorDesc": "Lead Designer @PostBoxTeam",
     "title": "4K YouTube Playback",
     "description": "No pixels as far as the eye can see.",
     "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/youtube4kbanner.png",
