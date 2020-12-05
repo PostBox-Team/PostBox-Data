@@ -1,22 +1,23 @@
-[
-    {
-        "name": "Dynastic Repo",
-        "link": "repo.dynastic.co"
-    },
+{
+    "repos": [
+        {
+            "name": "Dynastic Repo",
+            "link": "repo.dynastic.co"
+        },
 
-    {
-        "name": "Chariz Repo",
-        "link": "repo.chariz.com"
-    },
+        {
+            "name": "Chariz Repo",
+            "link": "repo.chariz.com"
+        },
 
-    {
-        "name": "Packix Repo",
-        "link": "repo.packix.com"
-    },
+        {
+            "name": "Packix Repo",
+            "link": "repo.packix.com"
+        },
 
-    {
-        "name": "SparkDev's Repo",
-        "link": "sparkdev.me"
-    }
-
-  ]
+        {
+            "name": "SparkDev's Repo",
+            "link": "sparkdev.me"
+        }
+    ]
+}
