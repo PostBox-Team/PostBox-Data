@@ -2,22 +2,26 @@
     "repos": [
         {
             "name": "Dynastic Repo",
-            "link": "repo.dynastic.co"
+            "link": "https://repo.dynastic.co",
+            "desc": "A (default) repository for tweaks and themes."
         },
 
         {
             "name": "Chariz Repo",
-            "link": "repo.chariz.com"
+            "link": "https://repo.chariz.com",
+            "desc": "A (default) repository for tweaks and themes."
         },
 
         {
             "name": "Packix Repo",
-            "link": "repo.packix.com"
+            "link": "https://repo.packix.com",
+            "desc": "A (default) repository for tweaks and themes."
         },
 
         {
             "name": "SparkDev's Repo",
-            "link": "sparkdev.me"
+            "link": "https://sparkdev.me",
+            "desc": "Packages belonging to the developer: @SparkDev_"
         }
     ]
 }
