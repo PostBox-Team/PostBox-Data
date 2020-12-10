@@ -1,0 +1,27 @@
+{
+    "packages": [
+        {
+            "name": "JellyFish",
+            "price": "https://repo.dynastic.co",
+            "desc": "A (default) repository for tweaks and themes."
+        },
+
+        {
+            "name": "JellyFish",
+            "price": "https://repo.dynastic.co",
+            "desc": "A (default) repository for tweaks and themes."
+        },
+
+        {
+            "name": "JellyFish",
+            "price": "https://repo.dynastic.co",
+            "desc": "A (default) repository for tweaks and themes."
+        },
+
+        {
+            "name": "JellyFish",
+            "price": "https://repo.dynastic.co",
+            "desc": "A (default) repository for tweaks and themes."
+        }
+    ]
+}
