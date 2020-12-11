@@ -3,22 +3,22 @@
         {
             "id": "xyz.royalapps.jellyfish",
             "name": "JellyFish",
-            "price": "Free",
-            "desc": "A (default) repository for tweaks and themes."
+            "price": 1.99,
+            "repo": "https://repo.dynastic.co"
         },
 
         {
-            "id": "xyz.royalapps.jellyfish",
-            "name": "JellyFish",
-            "price": "Free",
-            "desc": "A (default) repository for tweaks and themes."
+            "id": "com.spark.snowboard",
+            "name": "SnowBoard",
+            "price": 0,
+            "repo": "https://sparkdev.me"
         },
 
         {
-            "id": "xyz.royalapps.jellyfish",
-            "name": "JellyFish",
-            "price": "Free",
-            "desc": "A (default) repository for tweaks and themes."
+            "id": "com.rileytestut.altdaemon",
+            "name": "AltDaemon",
+            "price": 1.99,
+            "repo": "https://repo.dynastic.co"
         }
     ]
 }
