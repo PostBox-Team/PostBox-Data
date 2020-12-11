@@ -1,15 +1,15 @@
 [
   {
-    "id": "app_theming",
+    "id": "postbox_stories",
     "type": "StoryCardBig",
     "author": "@polarizz39",
     "authorDesc": "Lead Designer @PostBoxTeam",
-    "title": "App Theming",
-    "description": "Change the way your app icons appear",
-    "img": "banner1.1",
-    "tags": ["story", "theme"],
-    "dateCreated": "11.21.20",
-    "datePublished": "11.23.20",
-    "content": "<span style=\"color: #fff\">**Unlike Android, Apple**</span> doesn't provide any default theming options to their devices. Although limited icon theming is possible with an unjailbroken device, many users have found out that the process is highly inefficient. With jailbreaking, users are able to unlock the full potentials of icon theming\n\n!| snowboard_banner | Snowboard is currently the most popular theming engine. It supports iOS 7+.\n\nWith appropriate theming engines such as SnowBoard, Anemone, or iThemer, users can easily change the appearance of app icons, notification badges, dock labels, and even system glyphs.\n\nAs more and more devices are becoming eligible to jailbreaking, develops, and designers race to create the ideal themes to appeal their customers. With thousands of theming packages that alter the appearances of the majority of iOS apps, theming can allow devices to stand unique to others."
+    "title": "Contribute to PostBox Stories!",
+    "description": "Write whatever you want about jailbreaking",
+    "img": "banner",
+    "tags": ["story", "miscellaneous"],
+    "dateCreated": "12.10.20",
+    "datePublished": "12.11.20",
+    "content": "<span style=\"color: #fff\">**Some of you**</span> may be wondering what type of content we host on PostBox.\n\nWith its initial launch, PostBox supports Reddit r/jailbreak posts and custom stories, with other sources of information coming soon.\n\nSo what exactly are custom stories? Well, it is just what they sound like, you can write articles and submit to PostBox! You can find more information regarding PostBox Stories next to the Settings icon.\n\nBut that is not the point of this story.\n\nWe need more stories, with this one being our one and only custom content present on the home page, our feed seems very lacking – the exact reason why we built PostBox, to add a little bit of flavor to the jailbreak community.\n\nAnyone can join and contribute to PostBox. As our community grows, we are planning to bring more fun features to improve your in-app experience."
   }
 ]
