@@ -1,18 +1,21 @@
 {
     "packages": [
         {
+            "id": "xyz.royalapps.jellyfish",
             "name": "JellyFish",
             "price": "Free",
             "desc": "A (default) repository for tweaks and themes."
         },
 
         {
+            "id": "xyz.royalapps.jellyfish",
             "name": "JellyFish",
             "price": "Free",
             "desc": "A (default) repository for tweaks and themes."
         },
 
         {
+            "id": "xyz.royalapps.jellyfish",
             "name": "JellyFish",
             "price": "Free",
             "desc": "A (default) repository for tweaks and themes."
