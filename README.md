@@ -8,3 +8,14 @@ Online Database for Post-Box
 `Documentation coming soon!`
 
 </div>
+
+# Online Files
+> Each has its own
+## `package.json`
+- This shows the featured packages 
+
+## `repo.json`
+- This shows the featured repos
+
+## `story.json`
+- This shows all of the stories
