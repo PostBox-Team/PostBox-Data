@@ -1,0 +1,24 @@
+{
+    "videomusic": [
+        {
+            "id": "se.nosskirneh.roadrunner",
+            "name": "RoadRunner",
+            "price": 2.75,
+            "repo": "https://henrikssonbrothers.com/cydia/repo/"
+        },
+
+        {
+            "id": "com.level3tjg.ablaze",
+            "name": "Ablaze",
+            "price": 0,
+            "repo": "https://level3tjg.xyz/repo"
+        },
+
+        {
+            "id": "com.rileytestut.altdaemon",
+            "name": "AltDaemon",
+            "price": 1.99,
+            "repo": "https://repo.dynastic.co"
+        }
+    ]
+}

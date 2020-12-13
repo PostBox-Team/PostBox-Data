@@ -1,0 +1,25 @@
+{
+    "appearance": [
+        {
+            "id": "love.litten.lobelias",
+            "name": "Lobelias",
+            "price": 0,
+            "repo": "https://repo.litten.love"
+        },
+
+        {
+            "id": "com.noisyflake.magmaevo",
+            "name": "Magma Evo",
+            "price": 2.99,
+            "repo": "https://repo.litten.love"
+        },
+
+        {
+            "id": "me.nepeta.axon",
+            "name": "Axon",
+            "price": 0,
+            "repo": "https://repo.co.kr"
+        }
+
+    ]
+}

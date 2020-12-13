@@ -1,0 +1,31 @@
+{
+    "themes": [
+        {
+            "id": "com.thetimeloop.Echoes",
+            "name": "Echoes",
+            "price": 1.99,
+            "repo": "https://repo.packix.com/"
+        },
+
+        {
+            "id": "com.akt.bigsur",
+            "name": "Big Sur",
+            "price": 0,
+            "repo": "https://alt03b1.github.io"
+        },
+
+        {
+            "id": "com.dpth.flux",
+            "name": "flux",
+            "price": 2,
+            "repo": "https://repo.packix.com"
+        },
+
+        {
+            "id": "com.mirac.kindaStock",
+            "name": "kindaStock",
+            "price": 2.49,
+            "repo": "https://repo.dynastic.co"
+        }
+    ]
+}

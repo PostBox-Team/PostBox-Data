@@ -19,6 +19,13 @@
             "name": "AltDaemon",
             "price": 1.99,
             "repo": "https://repo.dynastic.co"
+        },
+
+        {
+            "id": "com.hidefleets",
+            "name": "HideFleets",
+            "price": 0,
+            "repo": "https://xpl0itu.github.io"
         }
     ]
 }

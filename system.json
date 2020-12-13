@@ -1,0 +1,24 @@
+{
+    "system": [
+        {
+            "id": "com.creaturecoding.shuffle",
+            "name": "shuffle",
+            "price": 0,
+            "repo": "https://creaturecoding.com/repo"
+        },
+
+        {
+            "id": "com.jontelang.snapper2.packix",
+            "name": "Snapper 2",
+            "price": 3,
+            "repo": "https://repo.packix.com"
+        },
+
+        {
+            "id": "me.tomt000.copylog",
+            "name": "CopyLog",
+            "price": 2.49,
+            "repo": "https://repo.packix.com"
+        }
+    ]
+}
