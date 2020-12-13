@@ -10,6 +10,20 @@
     "tags": ["story", "miscellaneous"],
     "dateCreated": "12.10.20",
     "datePublished": "12.11.20",
-    "content": "<span style=\"color: #fff\">**Some of you**</span> may be wondering what type of content we host on PostBox.\n\nWith its initial launch, PostBox supports Reddit r/jailbreak posts and custom stories, with other sources of information coming soon.\n\nSo what exactly are custom stories? Well, it is just what they sound like, you can write articles and submit to PostBox! You can find more information regarding PostBox Stories next to the Settings icon.\n\nBut that is not the point of this story.\n\nWe need more stories, with this one being our one and only custom content present on the home page, our feed seems very lacking – the exact reason why we built PostBox, to add a little bit of flavor to the jailbreak community.\n\nAnyone can join and contribute to PostBox. As our community grows, we are planning to bring more fun features to improve your in-app experience."
+    "content": "<span style=\"color: #fff\">**Some of you**</span> may be wondering what type of content we host on PostBox.\n\nWith its initial launch, PostBox supports Reddit r/jailbreak posts and custom stories, with other sources of information coming soon.\n\nSo what exactly are custom stories? Well, it is just what they sound like, you can write articles and submit to PostBox! You can find more information regarding PostBox Stories next to the Settings icon.\n\nBut that is not the point of this story.\n\nWe need more stories, with this one being our one and only custom content present on the home page, our feed seems very lacking – the exact reason why we built PostBox, to add a little bit of flavor to the jailbreak community.\n\nAnyone can join and contribute to PostBox. As our community grows, we are planning to bring more fun features to improve your in-app experience.",
+    "featured": true
+  },
+  {
+    "id": "postbox_stories",
+    "type": "StoryCardBig",
+    "author": "@turkeri_alper",
+    "title": "Top 5 must-have tweaks",
+    "description": "Top 5 tweaks that every jailbroken user needs to have",
+    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/topfive.jpeg",
+    "tags": ["story", "package"],
+    "dateCreated": "12.12.20",
+    "datePublished": "12.12.20",
+    "content": "### Tweak 1: StopCrashingPls\nRepo: [repo.chariz.com](https://repo.chariz.com)\n\nFixes jetsam crash issue.\n\n### Tweak 2: Fix Random Resprings\nRepo: [pheuxdev.github.io/repo](https://pheuxdev.github.io/repo)\n\nFixes random resprings and makes the system more stable overall.\n\n### Tweak 3: Filza File Manager\nRepo: [tigisoftware.com/cydia](https://pheuxdev.github.io/repo)\n\nUseful file manager for ios.\n\n### Tweak 4: iCleaner Pro\nStable repo: [ib-soft.net/cydia](https://ib-soft.net/cydia)\nBeta repo: [ib-soft.net/cydia/beta](https://ib-soft.net/cydia/beta)\n\nUseful tweak to delete useless files of caches as well as enabling/disabling tweaks without deleting them.\n\n### Tweak 5: VolumeMixer\nRepo: [apt.thebigboss.org/repofiles/cydia](https://apt.thebigboss.org/repofiles/cydia)\nDevelopers repo: [brendonjkding.github.io](https://brendonjkding.github.io)\n\nAllows to set per-app volume for apps. Useful if you listen to music while doing something else.",
+    "featured": true
   }
 ]
