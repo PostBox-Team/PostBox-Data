@@ -22,6 +22,12 @@
             "name": "SparkDev's Repo",
             "link": "https://sparkdev.me",
             "desc": "Packages belonging to the developer: @SparkDev_"
+        },
+
+        {
+            "name": "CydiaGeek's Repo",
+            "link": "https://cydiageek.yourepo.com/",
+            "desc": "Here is the CydiaGeek repo, enjoy, thanks!"
         }
     ]
 }
