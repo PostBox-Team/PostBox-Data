@@ -17,6 +17,7 @@
     "id": "postbox_stories",
     "type": "StoryCardBig",
     "author": "@turkeri_alper",
+    "authorDesc": "First PostBox Story author",
     "title": "Top 5 must-have tweaks",
     "description": "Top 5 tweaks that every jailbroken user needs to have",
     "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/topfive.jpeg",
