@@ -1,6 +1,21 @@
 [
   {
     "id": "postbox_stories",
+    "type": "StoryCardSmall",
+    "author": "Noel Koeppl",
+    "authorDesc": "Jailbreak Enthusiast",
+    "title": "5 Must-Have Tweaks for iPad",
+    "description": "How to improve the user experience of a jailbroken iPad",
+    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/ipadtweak.jpeg",
+    "tags": ["story", "package"],
+    "dateCreated": "12.13.20",
+    "datePublished": "12.14.20",
+    "content": "**Anyone who has** a jailbroken iPad knows that there aren't many tweaks out there to show that this device is worth jailbreaking. Below I will show you five packages that unleash the true potential of a jailbroken iPad.\n\n### CopyLog (Paid)\nCopyLog saves your clipboard history in form of snippets. Great productivity tweak that supports iOS 11 up to iOS 14.x\n\nRepo:\n<https://repo.packix.com>\n\n### NewTerm 2 (Free)\nThis tweak ports the powerful computer terminal to your iOS device and allows things like SSHing to a server.\nSupports iOS 10 - 14.x\n\nRepo:\n<https://repo.chariz.com>\n\n### LPMPAD (Free)\nBrings the iPhone low power mode to your iPad to help you saving battery.\nSupports iOS 11 - 14.x\n\nRepo:\n<https://repo.packix.com>\n\n### Dyadic (paid)\nDyadic takes advantage of the big iPad screen with combining the today view with the control center.\nSupports iOS 12 - 13.x\n\nRepo:\n<https://repo.twickd.com>\n\n### RequireFull (Free)\nEnables full screen on apps like “Instagram” that aren’t optimized for iPad\niOS 10 - 14.x\n\nRepo:\n<http://apt.thebigboss.org/repofiles/cydia>",
+    "featured": true
+  },
+  
+  {
+    "id": "postbox_stories",
     "type": "StoryCardBig",
     "author": "@polarizz39",
     "authorDesc": "Lead Designer @PostBoxTeam",
@@ -34,7 +49,7 @@
     "type": "StoryCardSmall",
     "author": "@turkeri_alper",
     "authorDesc": "First PostBox Story author",
-    "title": "Top 5 must-have tweaks",
+    "title": "Top 5 Must-Have Tweaks",
     "description": "Top 5 tweaks that every jailbroken user needs to have",
     "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/topfive.jpeg",
     "tags": ["story", "package"],
