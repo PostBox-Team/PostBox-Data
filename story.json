@@ -1,6 +1,21 @@
 [
   {
     "id": "postbox_stories",
+    "type": "StoryCardBig",
+    "author": "@RuntimeOverflow",
+    "authorDesc": "iOS Tweak Developer",
+    "title": "AnimeMyBadges Pro - Preview",
+    "description": "Let's take a look at what the upcoming tweak AnimeMyBadges Pro has to offer.",
+    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/ambp.png",
+    "tags": ["story", "package"],
+    "dateCreated": "12.14.20",
+    "datePublished": "12.15.20",
+    "content": "## AnimeMyBadges Pro\n**by [Antony M.](https://twitter.com/T0NYiOS)**\n\nStock badges are boring. AnimateMyBadges attempts to change that, while still making them look like badges. The title may lead you to believe that the tweak has something to do with anime, however in this case it refers to \"Animate\".\n\nThere are a few options to adjust, such as the duration and the ability to blacklist apps. More interesting is the adaptive color option, as it allows the badges to have the same color as the app icon, as the name suggests. It uses a smart algorithm, which ignores extremely light and dark areas, so glyph-like icons don't have a black/white badge.\n\nNow to get to the interesting stuff, the animations. There are 11 of them in total.\n\n**1. Heart Beating**\n[![GIF](https://media2.giphy.com/media/pbry8zU9JTreFSRtIG/giphy.gif)](https://media2.giphy.com/media/pbry8zU9JTreFSRtIG/giphy.gif)\n\n**2. Transition From Right**\n[![GIF](https://media3.giphy.com/media/zIyHAYPQWrfd7jb9Ry/giphy.gif)](https://media3.giphy.com/media/zIyHAYPQWrfd7jb9Ry/giphy.gif)\n\n**3. Transition From Top**\n[![GIF](https://media1.giphy.com/media/1FKzcdwpeAd5Rx074q/giphy.gif)](https://media1.giphy.com/media/1FKzcdwpeAd5Rx074q/giphy.gif)\n\n**4. Transition**\n[![GIF](https://media0.giphy.com/media/gfCgPVksKCAhuGIKCV/giphy.gif)](https://media0.giphy.com/media/gfCgPVksKCAhuGIKCV/giphy.gif)\n\n**5. Shake**\n[![GIF](https://media0.giphy.com/media/BeIa4vZpm4NHv9puQ7/giphy.gif)](https://media0.giphy.com/media/BeIa4vZpm4NHv9puQ7/giphy.gif)\n\n**6. Shake 2**\n[![GIF](https://media1.giphy.com/media/gbDYXQ3P0cLVOkL5lK/giphy.gif)](https://media1.giphy.com/media/gbDYXQ3P0cLVOkL5lK/giphy.gif)\n\n**7. Bounce**\n[![GIF](https://media1.giphy.com/media/S9TNh9vGZCJqSX4Bhi/giphy.gif)](https://media1.giphy.com/media/S9TNh9vGZCJqSX4Bhi/giphy.gif)\n\n**8. Pulse**\n[![GIF](https://media4.giphy.com/media/VFOp7fz8DZtD5Wdvx4/giphy.gif)](https://media4.giphy.com/media/VFOp7fz8DZtD5Wdvx4/giphy.gif)\n\n**9. Fade**\n[![GIF](https://media4.giphy.com/media/XXDMSR4ZScT68n7oXT/giphy.gif)](https://media4.giphy.com/media/XXDMSR4ZScT68n7oXT/giphy.gif)\n\n**10. Fade 2**\n[![GIF](https://media4.giphy.com/media/KEoLX6l9rIuvlBTBWT/giphy.gif)](https://media4.giphy.com/media/KEoLX6l9rIuvlBTBWT/giphy.gif)\n\n**11. Cube**\n[![GIF](https://media1.giphy.com/media/mXpyOIiKjtY6CM9ogd/giphy.gif)](https://media1.giphy.com/media/mXpyOIiKjtY6CM9ogd/giphy.gif)\n\nNow you may be wondering, *doesn't this drain my battery?* To be honest of course it does (everyone who says it doesn't is a liar), however, the amount isn't noticeable thanks to a feature, which stops the animation as soon as you leave the homescreen.",
+    "featured": true
+  },
+  
+  {
+    "id": "postbox_stories",
     "type": "StoryCardSmall",
     "author": "Noel Koeppl",
     "authorDesc": "Jailbreak Enthusiast",
