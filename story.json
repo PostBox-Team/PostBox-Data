@@ -1,19 +1,4 @@
 [
-  // {
-  //   "id": "postbox_stories",
-  //   "type": "FullCard",
-  //   "author": "@polarizz39",
-  //   "authorDesc": "Lead Designer @PostBoxTeam",
-  //   "title": "Test Story",
-  //   "description": "Not a package manager",
-  //   "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/testimage.png",
-  //   "tags": ["story", "package"],
-  //   "dateCreated": "12.20.20",
-  //   "datePublished": "12.20.20",
-  //   "content": "String",
-  //   "featured": true
-  // },
-
   {
     "id": "postbox_stories",
     "type": "StoryCardBig",
