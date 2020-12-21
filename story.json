@@ -1,6 +1,20 @@
 [
   {
     "id": "postbox_stories",
+    "type": "FullCard",
+    "author": "@polarizz39",
+    "authorDesc": "Lead Designer @PostBoxTeam",
+    "title": "Test Package of the Week",
+    "description": "Test description",
+    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/amb1p.png",
+    "dateCreated": "12.20.20",
+    "datePublished": "12.20.20",
+    "content": "String",
+    "featured": true
+  },
+
+  {
+    "id": "postbox_stories",
     "type": "StoryCardBig",
     "author": "@RuntimeOverflow",
     "authorDesc": "iOS Tweak Developer",
