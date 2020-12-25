@@ -46,7 +46,7 @@
   
   {
     "id": "postbox_stories",
-    "type": "StoryCardBig",
+    "type": "StoryCardSmall",
     "author": "@polarizz39",
     "authorDesc": "Lead Designer @PostBoxTeam",
     "title": "4k Youtube Playback",
