@@ -1,31 +1,116 @@
 {
-    "packages": [
-        {
-            "id": "xyz.royalapps.jellyfish",
-            "name": "JellyFish",
-            "price": 1.99,
-            "repo": "https://repo.dynastic.co"
-        },
-
-        {
-            "id": "com.spark.snowboard",
-            "name": "SnowBoard",
-            "price": 0,
-            "repo": "https://sparkdev.me"
-        },
-
-        {
-            "id": "com.rileytestut.altdaemon",
-            "name": "AltDaemon",
-            "price": 0,
-            "repo": "https://repo.dynastic.co"
-        },
-
-        {
-            "id": "com.hidefleets",
-            "name": "HideFleets",
-            "price": 0,
-            "repo": "https://xpl0itu.github.io"
-        }
+  "packages": [
+    {
+      "id": "xyz.royalapps.jellyfish",
+      "name": "JellyFish",
+      "price": 1.99,
+      "repo": "https://repo.dynastic.co"
+    },
+    {
+      "id": "com.spark.snowboard",
+      "name": "SnowBoard",
+      "price": 0,
+      "repo": "https://sparkdev.me"
+    },
+    {
+      "id": "com.rileytestut.altdaemon",
+      "name": "AltDaemon",
+      "price": 0,
+      "repo": "https://repo.dynastic.co"
+    },
+    {
+      "id": "com.hidefleets",
+      "name": "HideFleets",
+      "price": 0,
+      "repo": "https://xpl0itu.github.io"
+    }
+  ],
+  "featured": {
+    "system": [
+      {
+        "id": "com.creaturecoding.shuffle",
+        "name": "shuffle",
+        "price": 0,
+        "repo": "https://creaturecoding.com/repo"
+      },
+      {
+        "id": "com.jontelang.snapper2.packix",
+        "name": "Snapper 2",
+        "price": 3,
+        "repo": "https://repo.packix.com"
+      },
+      {
+        "id": "me.tomt000.copylog",
+        "name": "CopyLog",
+        "price": 2.49,
+        "repo": "https://repo.packix.com"
+      }
+    ],
+    "themes": [
+      {
+        "id": "com.thetimeloop.Echoes",
+        "name": "Echoes",
+        "price": 1.99,
+        "repo": "https://repo.packix.com/"
+      },
+      {
+        "id": "com.akt.bigsur",
+        "name": "Big Sur",
+        "price": 0,
+        "repo": "https://alt03b1.github.io"
+      },
+      {
+        "id": "com.dpth.flux",
+        "name": "flux",
+        "price": 2,
+        "repo": "https://repo.packix.com"
+      },
+      {
+        "id": "com.mirac.kindaStock",
+        "name": "kindaStock",
+        "price": 2.49,
+        "repo": "https://repo.dynastic.co"
+      }
+    ],
+    "videomusic": [
+      {
+        "id": "se.nosskirneh.roadrunner",
+        "name": "RoadRunner",
+        "price": 2.75,
+        "repo": "https://henrikssonbrothers.com/cydia/repo/"
+      },
+      {
+        "id": "com.level3tjg.ablaze",
+        "name": "Ablaze",
+        "price": 0,
+        "repo": "https://level3tjg.xyz/repo"
+      },
+      {
+        "id": "com.rileytestut.altdaemon",
+        "name": "AltDaemon",
+        "price": 1.99,
+        "repo": "https://repo.dynastic.co"
+      }
+    ],
+    "appearance": [
+      {
+        "id": "love.litten.lobelias",
+        "name": "Lobelias",
+        "price": 0,
+        "repo": "https://repo.litten.love"
+      },
+      {
+        "id": "com.noisyflake.magmaevo",
+        "name": "Magma Evo",
+        "price": 2.99,
+        "repo": "https://repo.litten.love"
+      },
+      {
+        "id": "me.nepeta.axon",
+        "name": "Axon",
+        "price": 0,
+        "repo": "https://repo.co.kr"
+      }
     ]
+  }
 }
