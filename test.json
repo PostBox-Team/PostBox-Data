@@ -16,7 +16,7 @@
 
   {
     "id": "postbox_stories",
-    "type": "StoryCardSmall",
+    "type": "StoryCardBig",
     "author": "@RuntimeOverflow",
     "authorDesc": "iOS Tweak Developer",
     "title": "AnimeMyBadges Pro - Preview",
