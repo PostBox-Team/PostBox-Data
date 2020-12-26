@@ -2,6 +2,21 @@
   {
     "id": "postbox_stories",
     "type": "StoryCardSmall",
+    "author": "@RuntimeOverflow",
+    "authorDesc": "iOS Tweak Developer",
+    "title": "Tweaks for you and your PC",
+    "description": "Speed up your workflow using these tweaks to connect your device and PC.",
+    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/bannerrrr.png",
+    "tags": ["story", "package"],
+    "dateCreated": "12.14.20",
+    "datePublished": "12.25.20",
+    "content": "**Disclaimer:** Some of the below-mentioned tweaks may not work on public wifi networks (schools, coffee shops ...) due to port blocking. <br><br>\n\n## Boardy\n**by Greg0109**\n\nBoardy is a handy tweak, which allows you to sync your Clipboard with your computer, making it easy to work with your iPhone and PC at the same time. Currently, it supports copying text and images. It even supports syncing with multiple computers at the same time.\n\n**Compatible with:** macOS, Windows and Linux\n\n**Price:** $1.99\n\n**Compatability:** iOS 11+\n\n**Repository:** [repo.chariz.com](https://repo.chariz.com)\n\n**Requires installation of a server on your computer!** <br><br>\n\n\n## CumSync\n**by 1conan**\n\nNamed by [u/cameren102](https://www.reddit.com/u/cameren102/), this is yet another tweak, which syncs your Clipboard with your PC. However, this tweak is free and supports lower iOS versions than Boardy.\n\n**Compatible with:** macOS, Windows and Linux\n\n**Price:** Free\n\n**Compatability:** iOS 7+\n\n**Repository:** [repo.1conan.com](https://repo.1conan.com)\n\n**Requires installation of a server on your computer!** <br><br>\n\n\n## ForwardNotifier\n**by Greg0109**\n\nThis is another tweak by Greg0109, which allows you to receive your notifications on your PC or even on another iOS device. This tweak comes with a CC module to enable/disable the tweak. With an additional tweak called ForwardNotifierActivator, you can also use Activator to enable/disable the tweak. It also includes an option to blacklist certain apps, so you only receive notifications you really need.\n\n**Compatible with:** macOS, Windows, Linux, iOS\n\n**Price:** Free\n\n**Compatability:** iOS 9+\n\n**Repository:** [repo.chariz.com](https://repo.chariz.com)\n\n**Requires installation of a server on your computer!** <br><br>\n\n\n## SMServer\n**by Janshai**\n\nA tweak, which allows you to send messages right from your web browser, which means every operating system is supported. It includes the ability to not only send texts but also send attachments. You can send read receipts when viewing in browser and it supports desktop notifications.\n\n**Compatible with:** Any (Requires Web Browser)\n\n**Price:** Free\n\n**Compatability:** iOS 13+\n\n**Repository:** [repo.twickd.com](https://repo.twickd.com) <br><br>\n\n\n## Ekip\n**by maximehip**\n\nThis tweak is special as it only supports macOS. It allows you to see your notifications on your Mac. But not only that, you can access your control center right from your Mac, so you can enable/disable certain toggles whenever you want.\n\n**Compatible with:** macOS\n\n**Price:** $1.99\n\n**Compatability:** iOS 9+\n\n**Repository:** [repo.packix.com](https://repo.packix.com)\n\n**Requires installation of a server on your computer!**",
+    "featured": true
+  },
+
+  {
+    "id": "postbox_stories",
+    "type": "StoryCardSmall",
     "author": "@ExeRhythm",
     "authorDesc": "iOS Developer, fan of jailbreaking",
     "title": "Best 3 Among Us inspired tweaks",
