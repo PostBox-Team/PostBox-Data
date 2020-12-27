@@ -2,6 +2,21 @@
   {
     "id": "postbox_stories",
     "type": "StoryCardSmall",
+    "author": "MinxterYT",
+    "authorDesc": "PostBox Author",
+    "title": "5 Must-Have Control Center Tweaks",
+    "description": "Make your control center yours!",
+    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/cc.jpeg",
+    "tags": ["story", "package"],
+    "dateCreated": "12.17.20",
+    "datePublished": "12.27.20",
+    "content": "# 5 Must-Have Control Center Tweaks\n___\n<br>\n \n<h3> 1. CCSupport by Opa334 </h3>\n \n<imgcard2>\n \n![CCSupport Image](https://i.imgur.com/z7Z2JvP.jpg)\n### CCSupport is an essential tweak that adds support for custom control center modules and unlocks custom placement for all modules.<br> **Repo**: [Opa334’s Repo](https://opa334.github.io)\n \n</imgcard2>\n \n<br>\n \n<h3> 2. CCModules by Jailbreak365</h3>\n \n<imgcard2>\n \n![CCModules Image](https://i.imgur.com/U0K7Onu.jpg)\n### CCmodules is an extension of CCSupport that adds custom control center modules for installed applications, with over 100 currently supported apps.<br> **Repo**: [BigBoss Repo](http://apt.thebigboss.org/repofiles/cydia)\n \n</imgcard2>\n \n<br>\n \n<h3> 3. BetterCCXI by Atwiiks</h3>\n \n<imgcard2>\n \n![BetterCCXI Image](https://i.imgur.com/jZxmEfO.jpg)\n### BetterCCXI is a tweak that allows users to customize the size of the connectivity, music and weather modules within the settings app to one of their presets.<br> **Repo**: [Packix Repo](http://repo.packix.com)\n \n</imgcard2>\n \n<br>\n \n<h3> 4. CC On & OFF by PoomSmart</h3>\n \n<imgcard2>\n \n![CC On & OFF Image](https://i.imgur.com/0kS5DWW.gif)\n### CC On & OFF is a continuation of the RealCC Tweak. It changes the connectivity module in control center to actually turn off wifi etc, as opposed to suspending them.<br> **Repo**: [PoomSmart's Repo](http://PoomSmart.github.io/repo/)\n \n</imgcard2>\n \n<br>\n \n<h3> 5. CCArtwork by Atwiiks</h3>\n \n<imgcard2>\n \n![CCArtwork Image](https://i.imgur.com/YmFtAss.jpg)\n### CCArtwork is a tweak that displays the current playing song's album artwork behind the media module in the control center.<br> **Repo**: [Packix Repo](http://repo.packix.com)\n \n</imgcard2>\n",
+    "featured": true
+  },
+  
+  {
+    "id": "postbox_stories",
+    "type": "StoryCardSmall",
     "author": "@RuntimeOverflow",
     "authorDesc": "iOS Tweak Developer",
     "title": "Tweaks for you and your PC",
