@@ -2,6 +2,21 @@
   {
     "id": "postbox_stories",
     "type": "StoryCardBig",
+    "author": "@b0kch01",
+    "authorDesc": "stupid",
+    "title": "Embed Repo Card!",
+    "description": "This is quite legit",
+    "img": "banner",
+    "tags": ["story", "developer"],
+    "dateCreated": "12.13.20",
+    "datePublished": "12.23.20",
+    "content": "# this is a repo card\n\n||repo:https://getpostbox.now.sh||\n\nHello",
+    "featured": true
+  },
+  
+  {
+    "id": "postbox_stories",
+    "type": "StoryCardBig",
     "author": "@ExeRhythm",
     "authorDesc": "iOS Developer, fan of jailbreaking",
     "title": "Best 3 Among Us inspired tweaks",
