@@ -1,6 +1,21 @@
 [
   {
     "id": "postbox_stories",
+    "type": "StoryCardBig",
+    "author": "ExeRhythm",
+    "authorDesc": "iOS App Developer, fan of jailbreaking",
+    "title": "Dark Mode for Safari",
+    "description": "A tweak called “Deluminator” converts almost any website to darker mode.",
+    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/delum.png",
+    "tags": ["story", "package"],
+    "dateCreated": "12.14.20",
+    "datePublished": "1.4.21",
+    "content": "The dark mode feature was introduced in **iOS 13** and many people loved it. But the main problem is that it doesn't support websites.\n\n**A tweak called Deluminator solves this problem!**\n\nIt converts almost any website to a darker version. So if you have an OLED device and browse a lot, the Deluminator might save you some power.\n\nIt is fully compatible with all major browsers such as **Safari, Chrome, Firefox and Microsoft Edge**. Moreover, it also supports all system as well as third party applications that allow you to access web pages.\n\n#### Deluminator's key features:\n- Two dark modes\n- Third-party app support\n- Universal Reader Mode\n- Website Blacklist\n- Quick options access\n\n_Price: **$2.80**_\n\n_Repo: [https://repo.packix.com/]()_",
+    "featured": true
+  },
+
+  {
+    "id": "postbox_stories",
     "type": "StoryCardSmall",
     "author": "MinxterYT",
     "authorDesc": "PostBox Author",
