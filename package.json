@@ -54,7 +54,7 @@
         "repo": "https://repo.packix.com/"
       },
       {
-        "id": "com.akt.bigsur",
+        "id": "com.alt.bigsur",
         "name": "Big Sur",
         "price": 0,
         "repo": "https://alt03b1.github.io"
