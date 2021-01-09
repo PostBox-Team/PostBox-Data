@@ -26,22 +26,6 @@
     }
   ],
   "featured": {
-    "main": [
-      {
-        "id": "com.creaturecoding.shuffle",
-        "name": "shuffle",
-        "price": 0,
-        "repo": "https://creaturecoding.com/repo",
-        "status": "NEWLY RELEASED"
-      },
-      {
-        "id": "com.jontelang.snapper2.packix",
-        "name": "Snapper 2",
-        "price": 3,
-        "repo": "https://repo.packix.com",
-        "status": "NEWLY RELEASED"
-      }
-    ],
     "system": [
       {
         "id": "com.creaturecoding.shuffle",
