@@ -44,6 +44,12 @@
         "name": "CopyLog",
         "price": 2.49,
         "repo": "https://repo.packix.com"
+      },
+      {
+        "id": "com.rileytestut.altdaemon",
+        "name": "AltDaemon",
+        "price": 1.99,
+        "repo": "https://repo.dynastic.co"
       }
     ],
     "themes": [
@@ -84,12 +90,6 @@
         "name": "Ablaze",
         "price": 0,
         "repo": "https://level3tjg.xyz/repo"
-      },
-      {
-        "id": "com.rileytestut.altdaemon",
-        "name": "AltDaemon",
-        "price": 1.99,
-        "repo": "https://repo.dynastic.co"
       }
     ],
     "appearance": [
