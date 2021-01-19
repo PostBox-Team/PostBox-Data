@@ -1,6 +1,21 @@
 [
   {
     "id": "postbox_stories",
+    "type": "StoryCardSmall",
+    "author": "@RuntimeOverflow",
+    "authorDesc": "iOS Tweak Developer",
+    "title": "Manage Accounts with Crane",
+    "description": "Double the apps, double the efficiency!",
+    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/cranebanner.png",
+    "tags": ["package"],
+    "dateCreated": "12.15.20",
+    "datePublished": "1.18.21",
+    "content": "## Crane\n**by Lars Fröder (opa334)**\n\nYou know the issue, you are so popular that you have two accounts on the same platform. Wait, you don't? Well me neither, but we can believe in our dreams and maybe someday they will come true.\n\nSo if, for whatever reason it may be, you have two accounts, but it is annoying to switch between them because you have to sign out and enter the credentials for your second account. Most modern applications support multiple accounts, like Gmail or Outlook, but there are still numerous apps that don't. And this is where Crane saves the day. With Crane, you have the ability to install an app 'twice'. So you could have an instance where you're signed in with your main account and a second, where you're signed in to your second account.\n\nThis works by creating separate Containers for each instance, so each instance keeps its settings. And the main advantage of using Crane is that it also supports separate keychains, which, for those of you who don't know, is where the app stores your credentials.\n\nYou can conveniently switch between instances by 3D-touching on the app icon.\n\nNow there are some limits, the app store for example cannot be duplicated as it is strictly tied to your device. And the major (and one of the only) downside with this tweak is that notifications only work on the currently active container.\n\n**Price:** $1.99  \n**Compatability:** iOS 11+  \n||repo:https://repo.packix.com||\n\n## Crane Lite\nCrane lite is free, therefore it offers a limited feature set and it limits you to only duplicate one application. This is not only useful to find out if you like the tweak, but it is actually an important feature so you can check if the app you're trying to duplicate works before buying the tweak.\n\nWhile Crane Lite may be enough for you, I recommend buying the tweak (if you can) to support the developer.",
+    "featured": true
+  },
+
+  {
+    "id": "postbox_stories",
     "type": "StoryCardBig",
     "author": "ExeRhythm",
     "authorDesc": "iOS App Developer, fan of jailbreaking",
