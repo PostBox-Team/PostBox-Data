@@ -1,21 +1,21 @@
 {
   "packages": [
     {
-      "id": "xyz.royalapps.jellyfish",
-      "name": "JellyFish",
-      "price": 1.99,
-      "repo": "https://repo.dynastic.co"
+      "id": "com.twickd.mtac.lynx-2",
+      "name": "Lynx 2",
+      "price": 2,
+      "repo": "https://repo.twickd.com"
     },
     {
-      "id": "com.spark.snowboard",
-      "name": "SnowBoard",
+      "id": "org.thebigboss.holdanywherewigglemode",
+      "name": "HoldAnywhereWiggleMode",
       "price": 0,
-      "repo": "https://sparkdev.me"
+      "repo": "http://apt.thebigboss.org/repofiles/cydia"
     },
     {
-      "id": "com.rileytestut.altdaemon",
-      "name": "AltDaemon",
-      "price": 0,
+      "id": "com.blackhole.Gesto13",
+      "name": "Gesto for iOS 13",
+      "price": 3.99,
       "repo": "https://repo.dynastic.co"
     },
     {
@@ -23,6 +23,12 @@
       "name": "HideFleets",
       "price": 0,
       "repo": "https://xpl0itu.github.io"
+    },
+    {
+      "id": "com.foxfort.portraitxi",
+      "name": "PortraitXI",
+      "price": 4.99,
+      "repo": "https://repo.packix.com"
     }
   ],
   "featured": {
