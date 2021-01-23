@@ -1,17 +1,33 @@
-[{
-        "id": "postbox_stories",
-        "type": "StoryCardBig",
-        "author": "@b0kch01",
-        "authorDesc": "devs > designers",
-        "title": "Why Chickens should cross the road",
-        "description": "Why is the picture from Among Us?”",
-        "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/amongus.jpeg",
-        "tags": ["story", "package"],
-        "dateCreated": "12.13.20",
-        "datePublished": "12.23.20",
-        "content": "Emojis are great 😺\n\n||repo:https://getpostbox.now.sh||\n\n||package:PostBox App,com.simplycode.PostBox,https://getpostbox.now.sh||\n\n---\n# Loud and clear!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.\n\n> PostBox should be a package manager\n> \n> *-Everyone*\n\n<imgcard>\n\n![alt-text](https://unsplash.com/photos/NQSWvyVRIJk/download?force=true&w=640)\n### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.\n\n</imgcard>\n\n<imgcard2>\n\n![alt-text](https://unsplash.com/photos/NQSWvyVRIJk/download?force=true&w=640)\n### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.\n\n</imgcard2>\n\n",
-        "featured": true
-    },
+[
+  {
+    "id": "postbox_stories",
+    "type": "StoryCardBig",
+    "author": "@b0kch01",
+    "authorDesc": "stupid",
+    "title": "Embed Repo Card!",
+    "description": "This is quite legit",
+    "img": "banner",
+    "tags": ["story", "developer"],
+    "dateCreated": "12.13.20",
+    "datePublished": "12.23.20",
+    "content": "# this is a repo card\n\n||repo:https://getpostbox.now.sh||\n\nHello\n||repo:https://repo.dynastic.co||",
+    "featured": true
+  },
+  
+  {
+    "id": "postbox_stories",
+    "type": "StoryCardBig",
+    "author": "@ExeRhythm",
+    "authorDesc": "iOS Developer, fan of jailbreaking",
+    "title": "Best 3 Among Us inspired tweaks",
+    "description": "3 tweaks for fans of a game called “Among Us”",
+    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/amongus.jpeg",
+    "tags": ["story", "package"],
+    "dateCreated": "12.13.20",
+    "datePublished": "12.23.20",
+    "content": "Are you a fan of a game called \"Among Us\"? Play it 12 hours a day? Then these tweaks are for you!\n\n## **0. SnowBoard**\nThis tweak is not related to Among Us, but it is needed for the next tweak. This is a theme manager.\n\n_Repo: [https://sparkdev.me]()_\n\n_Price: **Free**_\n\n## **1. AmongOS**\nThis theme replaces 481 icons on your Home Screen to Among Us styled ones. The icons are high resolution and well made.\n\n_Repo: [https://repo.packix.com]()_\n\n_Price: **$1.99**_\n\n## **2. AmongLock**\nThis tweak is my favourite on this list. It changes the Lock Screen completely. Remember that super-long task in Reactor? That will be your new Lock Screen.\n\nIf you enter correct passcode, you will unlock your phone.\nIf you enter the wrong passcode, the ejection animation plays.\n\n_Repo: [https://repo.litten.love]()_\n\n_Price: **Free**_\n\n## **3. Not An Impostor**\nHave you ever wondered where ejected crewmates went?\n\nThis tweak allows you to see fellow crewmates from Among Us games who were falsesly accused and ejected on your Home Screen.\n\nUnlike other Home Screen tweaks, it consumes very little power (unless you stare at it for a couple of hours, of course)\n\n_Repo: [https://repo.pixelomer.com]()_\n\n_Price: **Free**_",
+    "featured": true
+  },
 
     {
         "id": "postbox_stories",

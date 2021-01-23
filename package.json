@@ -1,21 +1,21 @@
 {
   "packages": [
     {
-      "id": "xyz.royalapps.jellyfish",
-      "name": "JellyFish",
-      "price": 1.99,
-      "repo": "https://repo.dynastic.co"
+      "id": "com.twickd.mtac.lynx-2",
+      "name": "Lynx 2",
+      "price": 2,
+      "repo": "https://repo.twickd.com"
     },
     {
-      "id": "com.spark.snowboard",
-      "name": "SnowBoard",
+      "id": "org.thebigboss.holdanywherewigglemode",
+      "name": "HoldAnywhereWiggleMode",
       "price": 0,
-      "repo": "https://sparkdev.me"
+      "repo": "http://apt.thebigboss.org/repofiles/cydia"
     },
     {
-      "id": "com.rileytestut.altdaemon",
-      "name": "AltDaemon",
-      "price": 0,
+      "id": "com.blackhole.Gesto13",
+      "name": "Gesto for iOS 13",
+      "price": 3.99,
       "repo": "https://repo.dynastic.co"
     },
     {
@@ -23,6 +23,12 @@
       "name": "HideFleets",
       "price": 0,
       "repo": "https://xpl0itu.github.io"
+    },
+    {
+      "id": "com.foxfort.portraitxi",
+      "name": "PortraitXI",
+      "price": 4.99,
+      "repo": "https://repo.packix.com"
     }
   ],
   "featured": {
@@ -44,6 +50,12 @@
         "name": "CopyLog",
         "price": 2.49,
         "repo": "https://repo.packix.com"
+      },
+      {
+        "id": "com.rileytestut.altdaemon",
+        "name": "AltDaemon",
+        "price": 1.99,
+        "repo": "https://repo.dynastic.co"
       }
     ],
     "themes": [
@@ -54,7 +66,7 @@
         "repo": "https://repo.packix.com/"
       },
       {
-        "id": "com.akt.bigsur",
+        "id": "com.alt.bigsur",
         "name": "Big Sur",
         "price": 0,
         "repo": "https://alt03b1.github.io"
@@ -84,12 +96,6 @@
         "name": "Ablaze",
         "price": 0,
         "repo": "https://level3tjg.xyz/repo"
-      },
-      {
-        "id": "com.rileytestut.altdaemon",
-        "name": "AltDaemon",
-        "price": 1.99,
-        "repo": "https://repo.dynastic.co"
       }
     ],
     "appearance": [
@@ -103,7 +109,7 @@
         "id": "com.noisyflake.magmaevo",
         "name": "Magma Evo",
         "price": 2.99,
-        "repo": "https://repo.litten.love"
+        "repo": "https://repo.chariz.com"
       },
       {
         "id": "me.nepeta.axon",
