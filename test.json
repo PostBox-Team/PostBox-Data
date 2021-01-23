@@ -1,106 +1,120 @@
-[
-  {
-    "id": "postbox_stories",
-    "type": "StoryCardBig",
-    "author": "@ExeRhythm",
-    "authorDesc": "iOS Developer, fan of jailbreaking",
-    "title": "Best 3 Among Us inspired tweaks",
-    "description": "3 tweaks for fans of a game called “Among Us”",
-    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/amongus.jpeg",
-    "tags": ["story", "package"],
-    "dateCreated": "12.13.20",
-    "datePublished": "12.23.20",
-    "content": "Are you a fan of a game called \"Among Us\"? Play it 12 hours a day? Then these tweaks are for you!\n\n## **0. SnowBoard**\nThis tweak is not related to Among Us, but it is needed for the next tweak. This is a theme manager.\n\n_Repo: [https://sparkdev.me]()_\n\n_Price: **Free**_\n\n## **1. AmongOS**\nThis theme replaces 481 icons on your Home Screen to Among Us styled ones. The icons are high resolution and well made.\n\n_Repo: [https://repo.packix.com]()_\n\n_Price: **$1.99**_\n\n## **2. AmongLock**\nThis tweak is my favourite on this list. It changes the Lock Screen completely. Remember that super-long task in Reactor? That will be your new Lock Screen.\n\nIf you enter correct passcode, you will unlock your phone.\nIf you enter the wrong passcode, the ejection animation plays.\n\n_Repo: [https://repo.litten.love]()_\n\n_Price: **Free**_\n\n## **3. Not An Impostor**\nHave you ever wondered where ejected crewmates went?\n\nThis tweak allows you to see fellow crewmates from Among Us games who were falsesly accused and ejected on your Home Screen.\n\nUnlike other Home Screen tweaks, it consumes very little power (unless you stare at it for a couple of hours, of course)\n\n_Repo: [https://repo.pixelomer.com]()_\n\n_Price: **Free**_",
-    "featured": true
-  },
+[{
+        "id": "postbox_stories",
+        "type": "StoryCardBig",
+        "author": "@b0kch01",
+        "authorDesc": "devs > designers",
+        "title": "Why Chickens should cross the road",
+        "description": "Why is the picture from Among Us?”",
+        "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/amongus.jpeg",
+        "tags": ["story", "package"],
+        "dateCreated": "12.13.20",
+        "datePublished": "12.23.20",
+        "content": "Emojis are great 😺\n\n||repo:https://getpostbox.now.sh||\n\n||package:PostBox App,com.simplycode.PostBox,https://getpostbox.now.sh||\n\n---\n# Loud and clear!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.\n\n> PostBox should be a package manager\n> \n> *-Everyone*\n\n<imgcard>\n\n![alt-text](https://unsplash.com/photos/NQSWvyVRIJk/download?force=true&w=640)\n### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.\n\n</imgcard>\n\n<imgcard2>\n\n![alt-text](https://unsplash.com/photos/NQSWvyVRIJk/download?force=true&w=640)\n### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.\n\n</imgcard2>\n\n",
+        "featured": true
+    },
 
-  {
-    "id": "postbox_stories",
-    "type": "StoryCardBig",
-    "author": "@RuntimeOverflow",
-    "authorDesc": "iOS Tweak Developer",
-    "title": "AnimeMyBadges Pro - Preview",
-    "description": "Let's take a look at what the upcoming tweak AnimeMyBadges Pro has to offer.",
-    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/ambp.png",
-    "tags": ["story", "package"],
-    "dateCreated": "12.14.20",
-    "datePublished": "12.15.20",
-    "content": "## AnimeMyBadges Pro\n**by [Antony M.](https://twitter.com/T0NYiOS)**\n\nStock badges are boring. AnimateMyBadges attempts to change that, while still making them look like badges. The title may lead you to believe that the tweak has something to do with anime, however in this case it refers to \"Animate\".\n\nThere are a few options to adjust, such as the duration and the ability to blacklist apps. More interesting is the adaptive color option, as it allows the badges to have the same color as the app icon, as the name suggests. It uses a smart algorithm, which ignores extremely light and dark areas, so glyph-like icons don't have a black/white badge.\n\nNow to get to the interesting stuff, the animations. There are 11 of them in total.\n\n**1. Heart Beating**\n[![GIF](https://media2.giphy.com/media/pbry8zU9JTreFSRtIG/giphy.gif)](https://media2.giphy.com/media/pbry8zU9JTreFSRtIG/giphy.gif)\n\n**2. Transition From Right**\n[![GIF](https://media3.giphy.com/media/zIyHAYPQWrfd7jb9Ry/giphy.gif)](https://media3.giphy.com/media/zIyHAYPQWrfd7jb9Ry/giphy.gif)\n\n**3. Transition From Top**\n[![GIF](https://media1.giphy.com/media/1FKzcdwpeAd5Rx074q/giphy.gif)](https://media1.giphy.com/media/1FKzcdwpeAd5Rx074q/giphy.gif)\n\n**4. Transition**\n[![GIF](https://media0.giphy.com/media/gfCgPVksKCAhuGIKCV/giphy.gif)](https://media0.giphy.com/media/gfCgPVksKCAhuGIKCV/giphy.gif)\n\n**5. Shake**\n[![GIF](https://media0.giphy.com/media/BeIa4vZpm4NHv9puQ7/giphy.gif)](https://media0.giphy.com/media/BeIa4vZpm4NHv9puQ7/giphy.gif)\n\n**6. Shake 2**\n[![GIF](https://media1.giphy.com/media/gbDYXQ3P0cLVOkL5lK/giphy.gif)](https://media1.giphy.com/media/gbDYXQ3P0cLVOkL5lK/giphy.gif)\n\n**7. Bounce**\n[![GIF](https://media1.giphy.com/media/S9TNh9vGZCJqSX4Bhi/giphy.gif)](https://media1.giphy.com/media/S9TNh9vGZCJqSX4Bhi/giphy.gif)\n\n**8. Pulse**\n[![GIF](https://media4.giphy.com/media/VFOp7fz8DZtD5Wdvx4/giphy.gif)](https://media4.giphy.com/media/VFOp7fz8DZtD5Wdvx4/giphy.gif)\n\n**9. Fade**\n[![GIF](https://media4.giphy.com/media/XXDMSR4ZScT68n7oXT/giphy.gif)](https://media4.giphy.com/media/XXDMSR4ZScT68n7oXT/giphy.gif)\n\n**10. Fade 2**\n[![GIF](https://media4.giphy.com/media/KEoLX6l9rIuvlBTBWT/giphy.gif)](https://media4.giphy.com/media/KEoLX6l9rIuvlBTBWT/giphy.gif)\n\n**11. Cube**\n[![GIF](https://media1.giphy.com/media/mXpyOIiKjtY6CM9ogd/giphy.gif)](https://media1.giphy.com/media/mXpyOIiKjtY6CM9ogd/giphy.gif)\n\nNow you may be wondering, *doesn't this drain my battery?* To be honest of course it does (everyone who says it doesn't is a liar), however, the amount isn't noticeable thanks to a feature, which stops the animation as soon as you leave the homescreen.",
-    "featured": true
-  },
-  
-  {
-    "id": "postbox_stories",
-    "type": "StoryCardSmall",
-    "author": "Noel Koeppl",
-    "authorDesc": "Jailbreak Enthusiast",
-    "title": "5 Must-Have Tweaks for iPad",
-    "description": "How to improve the user experience of a jailbroken iPad",
-    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/ipadpackage.png",
-    "tags": ["story", "package"],
-    "dateCreated": "12.13.20",
-    "datePublished": "12.14.20",
-    "content": "**Anyone who has** a jailbroken iPad knows that there aren't many tweaks out there to show that this device is worth jailbreaking. Below I will show you five packages that unleash the true potential of a jailbroken iPad.\n\n### CopyLog (Paid)\nCopyLog saves your clipboard history in form of snippets. Great productivity tweak that supports iOS 11 up to iOS 14.x\n\nRepo:\n<https://repo.packix.com>\n\n### NewTerm 2 (Free)\nThis tweak ports the powerful computer terminal to your iOS device and allows things like SSHing to a server.\nSupports iOS 10 - 14.x\n\nRepo:\n<https://repo.chariz.com>\n\n### LPMPAD (Free)\nBrings the iPhone low power mode to your iPad to help you saving battery.\nSupports iOS 11 - 14.x\n\nRepo:\n<https://repo.packix.com>\n\n### Dyadic (paid)\nDyadic takes advantage of the big iPad screen with combining the today view with the control center.\nSupports iOS 12 - 13.x\n\nRepo:\n<https://repo.twickd.com>\n\n### RequireFull (Free)\nEnables full screen on apps like “Instagram” that aren’t optimized for iPad\niOS 10 - 14.x\n\nRepo:\n<http://apt.thebigboss.org/repofiles/cydia>",
-    "featured": true
-  },
-  
-  {
-    "id": "postbox_stories",
-    "type": "StoryCardSmall",
-    "author": "@polarizz39",
-    "authorDesc": "Lead Designer @PostBoxTeam",
-    "title": "4k Youtube Playback",
-    "description": "No pixels as far as the eye can see",
-    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/youtube4kbanner.png",
-    "tags": ["story", "miscellaneous"],
-    "dateCreated": "8.10.20",
-    "datePublished": "12.13.20",
-    "content": "**Since the introduction** of iOS 14, Apple has enabled VP9 support in the native YouTube app. Previously, the standard video codec for Apple devices was H.265, while YouTube has been using VP9 for streaming videos with 4k resolution or higher.\n\nAs a comparison, H.265 is newer and more efficient than Google’s VP9 codec. However, H.265 comes with a licensing fee, which is likely the reason why YouTube hasn’t adopted the use of that codec. As a result, some people confuse H.265 as incapable of playing back 4k videos. This is not the case as YouTube only allows uploading videos with the VP9 codec, restricting Apple devices using H.265 from playing back 4k content.\n\nWhile iOS 13 and below does not support Youtube at 4k, there are some tweaks that enable that option. Made by developer [@iJulioVerne](https://twitter.com/iJulioVerne), YTHDUnlocker enables 1440p to 8k playback. A newer tweak, YTUHD SW, developed by [@PoomSmart](https://twitter.com/poomsmart), makes 4k playback possible on Youtube. However, please take this paragraph as a grain of salt as some of these tweaks are deprecated on latest versions of Youtube. (As far as I know)\n\nMany of you may ask, iPhone screens do not have a resolution of 4k, why even bother installing these tweaks? However, it is proven that 4k videos look much clearer than 1080p, even on an iPhone 11 with a sub 1080p display. Such examples of downscaling can be found in video games, such as Grand Theft Auto V. If a player with a 1080p display sets the frame scaling to 200%, the game will render at 3840x2160 (4k) and downscales it to 1080p. The result is a higher quality game render.\n\nIn the end, if you want to have the maximum YouTube viewing experience possible, don’t hesitate to switch to 2160p if you have an iPhone 8 or above with iOS 14.",
-    "featured": true
-  },
+    {
+        "id": "postbox_stories",
+        "type": "StoryCardBig",
+        "author": "@ExeRhythm",
+        "authorDesc": "iOS Developer, fan of jailbreaking",
+        "title": "Best 3 Among Us inspired tweaks",
+        "description": "3 tweaks for fans of a game called “Among Us”",
+        "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/amongus.jpeg",
+        "tags": ["story", "package"],
+        "dateCreated": "12.13.20",
+        "datePublished": "12.23.20",
+        "content": "Are you a fan of a game called \"Among Us\"? Play it 12 hours a day? Then these tweaks are for you!\n\n## **0. SnowBoard**\nThis tweak is not related to Among Us, but it is needed for the next tweak. This is a theme manager.\n\n_Repo: [https://sparkdev.me]()_\n\n_Price: **Free**_\n\n## **1. AmongOS**\nThis theme replaces 481 icons on your Home Screen to Among Us styled ones. The icons are high resolution and well made.\n\n_Repo: [https://repo.packix.com]()_\n\n_Price: **$1.99**_\n\n## **2. AmongLock**\nThis tweak is my favourite on this list. It changes the Lock Screen completely. Remember that super-long task in Reactor? That will be your new Lock Screen.\n\nIf you enter correct passcode, you will unlock your phone.\nIf you enter the wrong passcode, the ejection animation plays.\n\n_Repo: [https://repo.litten.love]()_\n\n_Price: **Free**_\n\n## **3. Not An Impostor**\nHave you ever wondered where ejected crewmates went?\n\nThis tweak allows you to see fellow crewmates from Among Us games who were falsesly accused and ejected on your Home Screen.\n\nUnlike other Home Screen tweaks, it consumes very little power (unless you stare at it for a couple of hours, of course)\n\n_Repo: [https://repo.pixelomer.com]()_\n\n_Price: **Free**_",
+        "featured": true
+    },
 
-  {
-    "id": "postbox_stories",
-    "type": "StoryCardSmall",
-    "author": "@RuntimeOverflow",
-    "authorDesc": "iOS Tweak Developer",
-    "title": "The 5 iOS package managers",
-    "description": "The 5 package managers available for use on iOS.",
-    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/packagemanagers.jpeg",
-    "tags": ["story", "miscellaneous"],
-    "dateCreated": "12.13.20",
-    "datePublished": "12.13.20",
-    "content": "# Cydia\n**by Jay Freeman (Saurik)**\n\nBeing one of the oldest package managers, it is also one of the most used. It comes shipped with Unc0ver, Electra, and Checkra1n. Due to its old age, it is really slow and it hasn't received any performance updates in the last few years. However, many Tweaks try to enhance its features, like [Flame](http://cydia.saurik.com/package/com.aditkamath.flame) & [Pheromone](https://repo.packix.com/package/ws.hbang.pheromone). Cydia also no longer supports paid packages.\n\n**Advantages**\n- [x] Nostalgia\n- [x] Widely supported\n\n**Disadvantages**\n- [ ] Slow\n- [ ] Free Packages only\n- [ ] Enhancing Tweaks\n- [ ] No Native Depictions\n\n# Sileo\n**by Coolstar**\n\nA modern package manager developed by Coolstar for his Electra jailbreak. It gets shipped with Electra, Chimera, Odyssey, and OdysseyRa1n. It introduces the new Native Depictions for a better user experience. Additionally, you can purchase & download paid packages using the new payment API.\n\n**Advantages**\n- [x] Widely supported\n- [x] Native Depictions\n- [x] Paid Packages\n- [x] Free Demo for non-jailbroken Devices\n\n**Disadvantages**\n- [ ] Complicated Installation for Checkra1n and Unc0ver Users\n\n# Zebra\n**by Wilson Styres and Andrew Abosh**\n\nA popular third-party package manager, which can easily be installed alongside Cydia/Sileo. It is fast as it processes sources parallelly. It is designed to be installed as an additional package manager and doesn't ship natively with any jailbreak. Zebra has refused to add native depictions for the longest time. In the new 1.2 version, it adds support for native depictions. Though it doesn't support advertisements and repositories have to explicitly enable native depictions for Zebra.\n\nRepository: [https://getzbra.com/repo](https://getzbra.com/repo)\n\nBeta: [https://getzbra.com/beta](https://getzbra.com/beta)\n\n**Advantages**\n- [x] Fast\n- [x] Paid Packages\n- [x] Easy Installation\n\n**Disadvantages**\n- [ ] No Native Depictions for most Repositories\n\n# Installer 5\n**by AppTapp**\n\nYet another third-party package manager. Installer has a unique design, looking more like the Apple Appstore than a regular package manager. The design requires some time to get used to, but the package manager has all the features a modern package manager needs. For example, it allows wishlisting tweaks & following developers. Installer parses depictions to make them look consistent and fit the general style of Installer.\n\nRepository: [https://apptapp.me/repo](https://apptapp.me/repo)\n\nBeta: [https://beta.apptapp.me](https://beta.apptapp.me)\n\n**Advantages**\n- [x] Fast\n- [x] Paid Packages\n- [x] Easy Installation\n- [x] Unique Design\n- [x] Automatic Native Depictions\n\n# Saily\n**by Lakr233 and Brecken Lusk**\n\nLast but not least, Saily, a modern package manager, which is not very well known. It is mainly for its RootlessJB support, though you can use it with jailbreak. Saily has a special feature, which allows you to send random device info to repositories, to prevent them from tracking you. It supports both paid packages and native depictions. It can be installed on any jailbreak together with Cydia/Sileo.\n\nDeb Download: [https://github.com/SailyTeam/Saily/releases](https://github.com/SailyTeam/Saily/releases)\n\n**Advantages**\n- [x] Fast\n- [x] Paid Packages\n- [x] Incognito Mode\n- [x] Native Depictions\n\n**Disadvantages**\n- [ ] iOS 13+ only",
-    "featured": true
-  },
-  
-  {
-    "id": "postbox_stories",
-    "type": "StoryCardSmall",
-    "author": "@turkeri_alper",
-    "authorDesc": "First PostBox Story author",
-    "title": "Top 5 Must-Have Tweaks",
-    "description": "Top 5 tweaks that every jailbroken user needs to have",
-    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/topfive.jpeg",
-    "tags": ["story", "package"],
-    "dateCreated": "12.12.20",
-    "datePublished": "12.12.20",
-    "content": "### Tweak 1: StopCrashingPls\nRepo: [repo.chariz.com](https://repo.chariz.com)\n\nFixes jetsam crash issue.\n\n### Tweak 2: Fix Random Resprings\nRepo: [pheuxdev.github.io/repo](https://pheuxdev.github.io/repo)\n\nFixes random resprings and makes the system more stable overall.\n\n### Tweak 3: Filza File Manager\nRepo: [tigisoftware.com/cydia](https://pheuxdev.github.io/repo)\n\nUseful file manager for ios.\n\n### Tweak 4: iCleaner Pro\nStable repo: [ib-soft.net/cydia](https://ib-soft.net/cydia)\nBeta repo: [ib-soft.net/cydia/beta](https://ib-soft.net/cydia/beta)\n\nUseful tweak to delete useless files of caches as well as enabling/disabling tweaks without deleting them.\n\n### Tweak 5: VolumeMixer\nRepo: [apt.thebigboss.org/repofiles/cydia](https://apt.thebigboss.org/repofiles/cydia)\nDevelopers repo: [brendonjkding.github.io](https://brendonjkding.github.io)\n\nAllows to set per-app volume for apps. Useful if you listen to music while doing something else.",
-    "featured": true
-  },
+    {
+        "id": "postbox_stories",
+        "type": "StoryCardBig",
+        "author": "@RuntimeOverflow",
+        "authorDesc": "iOS Tweak Developer",
+        "title": "AnimeMyBadges Pro - Preview",
+        "description": "Let's take a look at what the upcoming tweak AnimeMyBadges Pro has to offer.",
+        "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/ambp.png",
+        "tags": ["story", "package"],
+        "dateCreated": "12.14.20",
+        "datePublished": "12.15.20",
+        "content": "## AnimeMyBadges Pro\n**by [Antony M.](https://twitter.com/T0NYiOS)**\n\nStock badges are boring. AnimateMyBadges attempts to change that, while still making them look like badges. The title may lead you to believe that the tweak has something to do with anime, however in this case it refers to \"Animate\".\n\nThere are a few options to adjust, such as the duration and the ability to blacklist apps. More interesting is the adaptive color option, as it allows the badges to have the same color as the app icon, as the name suggests. It uses a smart algorithm, which ignores extremely light and dark areas, so glyph-like icons don't have a black/white badge.\n\nNow to get to the interesting stuff, the animations. There are 11 of them in total.\n\n**1. Heart Beating**\n[![GIF](https://media2.giphy.com/media/pbry8zU9JTreFSRtIG/giphy.gif)](https://media2.giphy.com/media/pbry8zU9JTreFSRtIG/giphy.gif)\n\n**2. Transition From Right**\n[![GIF](https://media3.giphy.com/media/zIyHAYPQWrfd7jb9Ry/giphy.gif)](https://media3.giphy.com/media/zIyHAYPQWrfd7jb9Ry/giphy.gif)\n\n**3. Transition From Top**\n[![GIF](https://media1.giphy.com/media/1FKzcdwpeAd5Rx074q/giphy.gif)](https://media1.giphy.com/media/1FKzcdwpeAd5Rx074q/giphy.gif)\n\n**4. Transition**\n[![GIF](https://media0.giphy.com/media/gfCgPVksKCAhuGIKCV/giphy.gif)](https://media0.giphy.com/media/gfCgPVksKCAhuGIKCV/giphy.gif)\n\n**5. Shake**\n[![GIF](https://media0.giphy.com/media/BeIa4vZpm4NHv9puQ7/giphy.gif)](https://media0.giphy.com/media/BeIa4vZpm4NHv9puQ7/giphy.gif)\n\n**6. Shake 2**\n[![GIF](https://media1.giphy.com/media/gbDYXQ3P0cLVOkL5lK/giphy.gif)](https://media1.giphy.com/media/gbDYXQ3P0cLVOkL5lK/giphy.gif)\n\n**7. Bounce**\n[![GIF](https://media1.giphy.com/media/S9TNh9vGZCJqSX4Bhi/giphy.gif)](https://media1.giphy.com/media/S9TNh9vGZCJqSX4Bhi/giphy.gif)\n\n**8. Pulse**\n[![GIF](https://media4.giphy.com/media/VFOp7fz8DZtD5Wdvx4/giphy.gif)](https://media4.giphy.com/media/VFOp7fz8DZtD5Wdvx4/giphy.gif)\n\n**9. Fade**\n[![GIF](https://media4.giphy.com/media/XXDMSR4ZScT68n7oXT/giphy.gif)](https://media4.giphy.com/media/XXDMSR4ZScT68n7oXT/giphy.gif)\n\n**10. Fade 2**\n[![GIF](https://media4.giphy.com/media/KEoLX6l9rIuvlBTBWT/giphy.gif)](https://media4.giphy.com/media/KEoLX6l9rIuvlBTBWT/giphy.gif)\n\n**11. Cube**\n[![GIF](https://media1.giphy.com/media/mXpyOIiKjtY6CM9ogd/giphy.gif)](https://media1.giphy.com/media/mXpyOIiKjtY6CM9ogd/giphy.gif)\n\nNow you may be wondering, *doesn't this drain my battery?* To be honest of course it does (everyone who says it doesn't is a liar), however, the amount isn't noticeable thanks to a feature, which stops the animation as soon as you leave the homescreen.",
+        "featured": true
+    },
 
-  {
-    "id": "postbox_stories",
-    "type": "StoryCardSmall",
-    "author": "@polarizz39",
-    "authorDesc": "Lead Designer @PostBoxTeam",
-    "title": "Contribute to PostBox Stories!",
-    "description": "Write whatever you want about jailbreaking",
-    "img": "banner",
-    "tags": ["story", "miscellaneous"],
-    "dateCreated": "12.10.20",
-    "datePublished": "12.11.20",
-    "content": "**Some of you** may be wondering what type of content we host on PostBox.\n\nWith its initial launch, PostBox supports Reddit r/jailbreak posts and custom stories, with other sources of information coming soon.\n\nSo what exactly are custom stories? Well, it is just what they sound like, you can write articles and submit to PostBox! You can find more information regarding PostBox Stories next to the Settings icon.\n\nBut that is not the point of this story.\n\nWe need more stories, with this one being our one and only custom content present on the home page, our feed seems very lacking – the exact reason why we built PostBox, to add a little bit of flavor to the jailbreak community.\n\nAnyone can join and contribute to PostBox. As our community grows, we are planning to bring more fun features to improve your in-app experience.",
-    "featured": true
-  }
+    {
+        "id": "postbox_stories",
+        "type": "StoryCardSmall",
+        "author": "Noel Koeppl",
+        "authorDesc": "Jailbreak Enthusiast",
+        "title": "5 Must-Have Tweaks for iPad",
+        "description": "How to improve the user experience of a jailbroken iPad",
+        "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/ipadpackage.png",
+        "tags": ["story", "package"],
+        "dateCreated": "12.13.20",
+        "datePublished": "12.14.20",
+        "content": "**Anyone who has** a jailbroken iPad knows that there aren't many tweaks out there to show that this device is worth jailbreaking. Below I will show you five packages that unleash the true potential of a jailbroken iPad.\n\n### CopyLog (Paid)\nCopyLog saves your clipboard history in form of snippets. Great productivity tweak that supports iOS 11 up to iOS 14.x\n\nRepo:\n<https://repo.packix.com>\n\n### NewTerm 2 (Free)\nThis tweak ports the powerful computer terminal to your iOS device and allows things like SSHing to a server.\nSupports iOS 10 - 14.x\n\nRepo:\n<https://repo.chariz.com>\n\n### LPMPAD (Free)\nBrings the iPhone low power mode to your iPad to help you saving battery.\nSupports iOS 11 - 14.x\n\nRepo:\n<https://repo.packix.com>\n\n### Dyadic (paid)\nDyadic takes advantage of the big iPad screen with combining the today view with the control center.\nSupports iOS 12 - 13.x\n\nRepo:\n<https://repo.twickd.com>\n\n### RequireFull (Free)\nEnables full screen on apps like “Instagram” that aren’t optimized for iPad\niOS 10 - 14.x\n\nRepo:\n<http://apt.thebigboss.org/repofiles/cydia>",
+        "featured": true
+    },
+
+    {
+        "id": "postbox_stories",
+        "type": "StoryCardSmall",
+        "author": "@polarizz39",
+        "authorDesc": "Lead Designer @PostBoxTeam",
+        "title": "4k Youtube Playback",
+        "description": "No pixels as far as the eye can see",
+        "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/youtube4kbanner.png",
+        "tags": ["story", "miscellaneous"],
+        "dateCreated": "8.10.20",
+        "datePublished": "12.13.20",
+        "content": "**Since the introduction** of iOS 14, Apple has enabled VP9 support in the native YouTube app. Previously, the standard video codec for Apple devices was H.265, while YouTube has been using VP9 for streaming videos with 4k resolution or higher.\n\nAs a comparison, H.265 is newer and more efficient than Google’s VP9 codec. However, H.265 comes with a licensing fee, which is likely the reason why YouTube hasn’t adopted the use of that codec. As a result, some people confuse H.265 as incapable of playing back 4k videos. This is not the case as YouTube only allows uploading videos with the VP9 codec, restricting Apple devices using H.265 from playing back 4k content.\n\nWhile iOS 13 and below does not support Youtube at 4k, there are some tweaks that enable that option. Made by developer [@iJulioVerne](https://twitter.com/iJulioVerne), YTHDUnlocker enables 1440p to 8k playback. A newer tweak, YTUHD SW, developed by [@PoomSmart](https://twitter.com/poomsmart), makes 4k playback possible on Youtube. However, please take this paragraph as a grain of salt as some of these tweaks are deprecated on latest versions of Youtube. (As far as I know)\n\nMany of you may ask, iPhone screens do not have a resolution of 4k, why even bother installing these tweaks? However, it is proven that 4k videos look much clearer than 1080p, even on an iPhone 11 with a sub 1080p display. Such examples of downscaling can be found in video games, such as Grand Theft Auto V. If a player with a 1080p display sets the frame scaling to 200%, the game will render at 3840x2160 (4k) and downscales it to 1080p. The result is a higher quality game render.\n\nIn the end, if you want to have the maximum YouTube viewing experience possible, don’t hesitate to switch to 2160p if you have an iPhone 8 or above with iOS 14.",
+        "featured": true
+    },
+
+    {
+        "id": "postbox_stories",
+        "type": "StoryCardSmall",
+        "author": "@RuntimeOverflow",
+        "authorDesc": "iOS Tweak Developer",
+        "title": "The 5 iOS package managers",
+        "description": "The 5 package managers available for use on iOS.",
+        "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/packagemanagers.jpeg",
+        "tags": ["story", "miscellaneous"],
+        "dateCreated": "12.13.20",
+        "datePublished": "12.13.20",
+        "content": "# Cydia\n**by Jay Freeman (Saurik)**\n\nBeing one of the oldest package managers, it is also one of the most used. It comes shipped with Unc0ver, Electra, and Checkra1n. Due to its old age, it is really slow and it hasn't received any performance updates in the last few years. However, many Tweaks try to enhance its features, like [Flame](http://cydia.saurik.com/package/com.aditkamath.flame) & [Pheromone](https://repo.packix.com/package/ws.hbang.pheromone). Cydia also no longer supports paid packages.\n\n**Advantages**\n- [x] Nostalgia\n- [x] Widely supported\n\n**Disadvantages**\n- [ ] Slow\n- [ ] Free Packages only\n- [ ] Enhancing Tweaks\n- [ ] No Native Depictions\n\n# Sileo\n**by Coolstar**\n\nA modern package manager developed by Coolstar for his Electra jailbreak. It gets shipped with Electra, Chimera, Odyssey, and OdysseyRa1n. It introduces the new Native Depictions for a better user experience. Additionally, you can purchase & download paid packages using the new payment API.\n\n**Advantages**\n- [x] Widely supported\n- [x] Native Depictions\n- [x] Paid Packages\n- [x] Free Demo for non-jailbroken Devices\n\n**Disadvantages**\n- [ ] Complicated Installation for Checkra1n and Unc0ver Users\n\n# Zebra\n**by Wilson Styres and Andrew Abosh**\n\nA popular third-party package manager, which can easily be installed alongside Cydia/Sileo. It is fast as it processes sources parallelly. It is designed to be installed as an additional package manager and doesn't ship natively with any jailbreak. Zebra has refused to add native depictions for the longest time. In the new 1.2 version, it adds support for native depictions. Though it doesn't support advertisements and repositories have to explicitly enable native depictions for Zebra.\n\nRepository: [https://getzbra.com/repo](https://getzbra.com/repo)\n\nBeta: [https://getzbra.com/beta](https://getzbra.com/beta)\n\n**Advantages**\n- [x] Fast\n- [x] Paid Packages\n- [x] Easy Installation\n\n**Disadvantages**\n- [ ] No Native Depictions for most Repositories\n\n# Installer 5\n**by AppTapp**\n\nYet another third-party package manager. Installer has a unique design, looking more like the Apple Appstore than a regular package manager. The design requires some time to get used to, but the package manager has all the features a modern package manager needs. For example, it allows wishlisting tweaks & following developers. Installer parses depictions to make them look consistent and fit the general style of Installer.\n\nRepository: [https://apptapp.me/repo](https://apptapp.me/repo)\n\nBeta: [https://beta.apptapp.me](https://beta.apptapp.me)\n\n**Advantages**\n- [x] Fast\n- [x] Paid Packages\n- [x] Easy Installation\n- [x] Unique Design\n- [x] Automatic Native Depictions\n\n# Saily\n**by Lakr233 and Brecken Lusk**\n\nLast but not least, Saily, a modern package manager, which is not very well known. It is mainly for its RootlessJB support, though you can use it with jailbreak. Saily has a special feature, which allows you to send random device info to repositories, to prevent them from tracking you. It supports both paid packages and native depictions. It can be installed on any jailbreak together with Cydia/Sileo.\n\nDeb Download: [https://github.com/SailyTeam/Saily/releases](https://github.com/SailyTeam/Saily/releases)\n\n**Advantages**\n- [x] Fast\n- [x] Paid Packages\n- [x] Incognito Mode\n- [x] Native Depictions\n\n**Disadvantages**\n- [ ] iOS 13+ only",
+        "featured": true
+    },
+
+    {
+        "id": "postbox_stories",
+        "type": "StoryCardSmall",
+        "author": "@turkeri_alper",
+        "authorDesc": "First PostBox Story author",
+        "title": "Top 5 Must-Have Tweaks",
+        "description": "Top 5 tweaks that every jailbroken user needs to have",
+        "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/topfive.jpeg",
+        "tags": ["story", "package"],
+        "dateCreated": "12.12.20",
+        "datePublished": "12.12.20",
+        "content": "### Tweak 1: StopCrashingPls\nRepo: [repo.chariz.com](https://repo.chariz.com)\n\nFixes jetsam crash issue.\n\n### Tweak 2: Fix Random Resprings\nRepo: [pheuxdev.github.io/repo](https://pheuxdev.github.io/repo)\n\nFixes random resprings and makes the system more stable overall.\n\n### Tweak 3: Filza File Manager\nRepo: [tigisoftware.com/cydia](https://pheuxdev.github.io/repo)\n\nUseful file manager for ios.\n\n### Tweak 4: iCleaner Pro\nStable repo: [ib-soft.net/cydia](https://ib-soft.net/cydia)\nBeta repo: [ib-soft.net/cydia/beta](https://ib-soft.net/cydia/beta)\n\nUseful tweak to delete useless files of caches as well as enabling/disabling tweaks without deleting them.\n\n### Tweak 5: VolumeMixer\nRepo: [apt.thebigboss.org/repofiles/cydia](https://apt.thebigboss.org/repofiles/cydia)\nDevelopers repo: [brendonjkding.github.io](https://brendonjkding.github.io)\n\nAllows to set per-app volume for apps. Useful if you listen to music while doing something else.",
+        "featured": true
+    },
+
+    {
+        "id": "postbox_stories",
+        "type": "StoryCardSmall",
+        "author": "@polarizz39",
+        "authorDesc": "Lead Designer @PostBoxTeam",
+        "title": "Contribute to PostBox Stories!",
+        "description": "Write whatever you want about jailbreaking",
+        "img": "banner",
+        "tags": ["story", "miscellaneous"],
+        "dateCreated": "12.10.20",
+        "datePublished": "12.11.20",
+        "content": "**Some of you** may be wondering what type of content we host on PostBox.\n\nWith its initial launch, PostBox supports Reddit r/jailbreak posts and custom stories, with other sources of information coming soon.\n\nSo what exactly are custom stories? Well, it is just what they sound like, you can write articles and submit to PostBox! You can find more information regarding PostBox Stories next to the Settings icon.\n\nBut that is not the point of this story.\n\nWe need more stories, with this one being our one and only custom content present on the home page, our feed seems very lacking – the exact reason why we built PostBox, to add a little bit of flavor to the jailbreak community.\n\nAnyone can join and contribute to PostBox. As our community grows, we are planning to bring more fun features to improve your in-app experience.",
+        "featured": true
+    }
 ]
