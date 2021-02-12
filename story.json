@@ -13,6 +13,22 @@
     "content": "### What’s New in PostBox Beta 4\n\n**Happy 2021!** 🎉 With Beta 4 being our first update of the year, we have drastically improved the app experience.\n\nAs you install the new update, one thing that comes to view is the design revamp. We have introduced a more compact and intricate design to make the best use of the small phone screen area.\n\n<imgcard>\n\n![alt-text](https://i.imgur.com/OYAbQPV.png)\n### Story sections are now combined to give a clearer way of organization.\n\n</imgcard>\n\nExplore around PostBox for more changes in the user interface.\n\nAnother big improvement to PostBox Stories is the implementation of interactive elements, such as: ||repo:https://repo.packix.com||\n\nStay tuned for more features in the future!\n\nFor our next beta, we are planning to optimize the app in order to reduced the app size, as well as implementing more back-end features to increase app usability.",
     "featured": true
   },
+
+  {
+    "id": "postbox_stories",
+    "type": "StoryCardSmall",
+    "author": "@polarizz39",
+    "authorDesc": "Lead Designer @PostBoxTeam",
+    "title": "What's New",
+    "description": "An insight into the latest PostBox update",
+    "img": " ",
+    "tags": ["story"],
+    "dateCreated": "1.20.21",
+    "datePublished": "1.20.21",
+    "content": "### What’s New in PostBox Beta 4\n\n**Happy 2021!** 🎉 With Beta 4 being our first update of the year, we have drastically improved the app experience.\n\nAs you install the new update, one thing that comes to view is the design revamp. We have introduced a more compact and intricate design to make the best use of the small phone screen area.\n\n<imgcard>\n\n![alt-text](https://i.imgur.com/OYAbQPV.png)\n### Story sections are now combined to give a clearer way of organization.\n\n</imgcard>\n\nExplore around PostBox for more changes in the user interface.\n\nAnother big improvement to PostBox Stories is the implementation of interactive elements, such as: ||repo:https://repo.packix.com||\n\nStay tuned for more features in the future!\n\nFor our next beta, we are planning to optimize the app in order to reduced the app size, as well as implementing more back-end features to increase app usability.",
+    "featured": true
+  },
+  
   {
     "id": "postbox_stories",
     "type": "StoryCardSmall",
@@ -175,6 +191,6 @@
     "dateCreated": "12.10.20",
     "datePublished": "12.11.20",
     "content": "**Some of you** may be wondering what type of content we host on PostBox.\n\nWith its initial launch, PostBox supports Reddit r/jailbreak posts and custom stories, with other sources of information coming soon.\n\nSo what exactly are custom stories? Well, it is just what they sound like, you can write articles and submit to PostBox! You can find more information regarding PostBox Stories next to the Settings icon.\n\nBut that is not the point of this story.\n\nWe need more stories, with this one being our one and only custom content present on the home page, our feed seems very lacking – the exact reason why we built PostBox, to add a little bit of flavor to the jailbreak community.\n\nAnyone can join and contribute to PostBox. As our community grows, we are planning to bring more fun features to improve your in-app experience.",
-    "featured": true
+    "featured": false
   }
 ]
