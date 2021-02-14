@@ -1,38 +1,56 @@
 {
   "packages": [
     {
-      "id": "com.twickd.mtac.lynx-2",
-      "name": "Lynx 2",
-      "price": 2,
-      "repo": "https://repo.twickd.com"
-    },
-    {
-      "id": "org.thebigboss.holdanywherewigglemode",
-      "name": "HoldAnywhereWiggleMode",
+      "id": "com.tr1fecta.weatherground",
+      "name": "WeatherGround",
       "price": 0,
-      "repo": "http://apt.thebigboss.org/repofiles/cydia"
+      "repo": "https://repo.chariz.com"
     },
     {
-      "id": "com.blackhole.Gesto13",
-      "name": "Gesto for iOS 13",
-      "price": 3.99,
-      "repo": "https://repo.dynastic.co"
+      "id": "com.shade.nougat",
+      "name": "Nougat",
+      "price": 1.99,
+      "repo": "https://repo.chariz.com"
     },
     {
-      "id": "com.hidefleets",
-      "name": "HideFleets",
+      "id": "com.laughingquoll.emerald",
+      "name": "Emerald",
+      "price": 2.99,
+      "repo": "https://repo.packix.com"
+    },
+    {
+      "id": "love.litten.eneko",
+      "name": "Eneko 🎬",
       "price": 0,
-      "repo": "https://xpl0itu.github.io"
+      "repo": "https://repo.litten.love"
     },
     {
-      "id": "com.foxfort.portraitxi",
-      "name": "PortraitXI",
-      "price": 4.99,
+      "id": "com.anthopak.addtofolder",
+      "name": "AddToFolder",
+      "price": 0,
+      "repo": "https://repo.anthopak.dev"
+    },
+    {
+      "id": "me.tomt000.copylog",
+      "name": "CopyLog",
+      "price": 2.49,
       "repo": "https://repo.packix.com"
     }
   ],
   "featured": {
     "system": [
+      {
+        "id": "com.qiop1379.swipeextenderx",
+        "name": "SwipeExtenderX",
+        "price": 2.49,
+        "repo": "https://repo.chariz.com"
+      },
+      {
+        "id": "com.tigisoftware.filza64bit",
+        "name": "Filza File Manager 64-bit",
+        "price": 0,
+        "repo": "https://tigisoftware.com/cydia"
+      },
       {
         "id": "com.creaturecoding.shuffle",
         "name": "shuffle",
@@ -60,6 +78,12 @@
     ],
     "themes": [
       {
+        "id": "com.yourepo.itscrx.bubblegum",
+        "name": "Bubblegum",
+        "price": 1.49,
+        "repo": "https://repo.packix.com/"
+      },
+      {
         "id": "com.thetimeloop.Echoes",
         "name": "Echoes",
         "price": 1.99,
@@ -82,9 +106,27 @@
         "name": "kindaStock",
         "price": 2.49,
         "repo": "https://repo.dynastic.co"
+      },
+      {
+        "id": "com.axel4.pillow",
+        "name": "Pillow",
+        "price": 0,
+        "repo": "https://repo.packix.com"
       }
     ],
     "videomusic": [
+      {
+        "id": "com.spotify.behindthelyrics.client",
+        "name": "Behind the Lyrics",
+        "price": 0,
+        "repo": "https://repo.packix.com"
+      },
+      {
+        "id": "me.renai.lyricify",
+        "name": "Lyricify",
+        "price": 1.99,
+        "repo": "https://repo.chariz.com"
+      },
       {
         "id": "se.nosskirneh.roadrunner",
         "name": "RoadRunner",
@@ -99,6 +141,12 @@
       }
     ],
     "appearance": [
+      {
+        "id": "love.litten.eneko",
+        "name": "Eneko 🎬",
+        "price": 0,
+        "repo": "https://repo.litten.love"
+      },
       {
         "id": "love.litten.lobelias",
         "name": "Lobelias",
