@@ -46,6 +46,12 @@
   "featured": {
     "system": [
       {
+        "id": "com.ps.emojiportpe",
+        "name": "EmojiPort (iOS 12.0-14.4)",
+        "price": 0,
+        "repo": "https://poomsmart.github.io/repo"
+      },
+      {
         "id": "com.qiop1379.swipeextenderx",
         "name": "SwipeExtenderX",
         "price": 2.49,
@@ -79,6 +85,12 @@
         "id": "com.rileytestut.altdaemon",
         "name": "AltDaemon",
         "price": 1.99,
+        "repo": "https://repo.dynastic.co"
+      },
+      {
+        "id": "com.megadev.dra1n",
+        "name": "Dra1n",
+        "price": 0,
         "repo": "https://repo.dynastic.co"
       }
     ],
@@ -170,6 +182,30 @@
         "name": "Axon",
         "price": 0,
         "repo": "https://repo.co.kr"
+      },
+      {
+        "id": "com.spark.snowboard",
+        "name": "SnowBoard",
+        "price": 0,
+        "repo": "https://sparkdev.me"
+      },
+      {
+        "id": "co.dynastic.ios.tweak.compactor",
+        "name": "Compactor",
+        "price": 0,
+        "repo": "https://repo.dynastic.co"
+      },
+      {
+        "id": "com.laughingquoll.sunflower",
+        "name": "Sunflower",
+        "price": 0,
+        "repo": "https://repo.chariz.com"
+      },
+      {
+        "id": "com.dgh0st.hswidgets",
+        "name": "HSWidgets",
+        "price": 0,
+        "repo": "https://dgh0st.github.io"
       }
     ]
   }
