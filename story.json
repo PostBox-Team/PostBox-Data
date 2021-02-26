@@ -31,7 +31,7 @@
 
   {
     "id": "postbox_stories",
-    "type": "StoryCardBig",
+    "type": "StoryCardSmall",
     "author": "ExeRhythm",
     "authorDesc": "iOS App Developer, fan of jailbreaking",
     "title": "Dark Mode for Safari",
