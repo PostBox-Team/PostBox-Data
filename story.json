@@ -91,7 +91,7 @@
 
   {
     "id": "postbox_stories",
-    "type": "StoryCardBig",
+    "type": "StoryCardSmall",
     "author": "@RuntimeOverflow",
     "authorDesc": "iOS Tweak Developer",
     "title": "AnimeMyBadges Pro - Preview",
@@ -121,7 +121,7 @@
   
   {
     "id": "postbox_stories",
-    "type": "StoryCardBig",
+    "type": "StoryCardSmall",
     "author": "@polarizz39",
     "authorDesc": "Lead Designer @PostBoxTeam",
     "title": "4k Youtube Playback",
@@ -136,7 +136,7 @@
 
   {
     "id": "postbox_stories",
-    "type": "StoryCardBig",
+    "type": "StoryCardSmall",
     "author": "@RuntimeOverflow",
     "authorDesc": "iOS Tweak Developer",
     "title": "The 5 iOS package managers",
