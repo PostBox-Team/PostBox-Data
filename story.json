@@ -2,6 +2,21 @@
   {
     "id": "postbox_stories",
     "type": "StoryCardSmall",
+    "author": "Doofenshmirtz",
+    "authorDesc": "Bored teenager",
+    "title": "PerfectPhone",
+    "description": "Learn how to simplify your phone app",
+    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/phonephone.png",
+    "tags": ["package"],
+    "dateCreated": "3.1.21",
+    "datePublished": "3.1.21",
+    "content": "# PerfectPhone\nThe Phone app is ***the*** app to place phone calls on your iPhone and for a phone app it is very complex. You have your dialpad, a voicemail box (which if we are being honest nobody uses), a copy of your contacts, and your favorites. But what if you wanted to erm... simplify? Well I don’t kn-\n\n***knock at door***\n\n“Hey have you heard of PerfectPhone”\n\n“Umm what?”\n\n“It’s this cool tweak that can do exactly what you just said”\n\n“I thought these were supposed to be soundproof walls”\n\n*”Oh those don’t affect me. I am all-seeing. I am omnipresent. I know that you killed he-”*\n\n***slams door***\n\nHAHAHAHA Let’s ignore that last statement and let’s look at that tweak he said about! *hysterical laughter*\n\nPerfectPhone is the perfect tweak to enhance your Phone app experience. You can hide tabs, change colors, change the default tab, show the exact time in the recent calls screen, and “Hide Third Pary Calls” (someone should’ve run spellcheck on their settings text). Today I will teach you how to make your phone app as simple as a dial pad + recent calls screen.\n\n### Step One\nDownload PerfectPhone from Johnzaro’s repo\n||package:PerfectPhone,com.johnzaro.perfectphone,https://johnzaro.github.io/cydia||\n\n### Step Two\nOpen Settings and head to the PerfectPhone pane.\n### Step Three \nTurn on “Hide Favorites”, “Hide Contacts”, “Hide Voicemail”\n### Step Four\nScroll to the top and turn on “Enabled”\n### Step Five \nClick “Close Phone” in the top right to apply changes.\n\n## Result\n<imgcard>![Final Result](https://i.ibb.co/ynbHhKF/EE384780-83-E0-495-D-8205-0-F8-CDE97-C072.png)\n<imgcard>\n\nYour Phone app should now look like this. Congratulations you can properly follow a tutorial!",
+    "featured": true
+  },
+
+  {
+    "id": "postbox_stories",
+    "type": "StoryCardSmall",
     "author": "@polarizz39",
     "authorDesc": "Lead Designer @PostBoxTeam",
     "title": "What's New",
