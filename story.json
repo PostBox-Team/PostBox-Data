@@ -181,7 +181,7 @@
 
   {
     "id": "postbox_stories",
-    "type": "StoryCardBig",
+    "type": "StoryCardSmall",
     "author": "@polarizz39",
     "authorDesc": "Lead Designer @PostBoxTeam",
     "title": "Contribute to PostBox Stories!",
