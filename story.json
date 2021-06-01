@@ -74,50 +74,35 @@
     "featured": true
   },
 
-  {
-    "id": "postbox_stories",
-    "type": "StoryCardSmall",
-    "author": "MinxterYT",
-    "authorDesc": "PostBox Author",
-    "title": "5 Must-Have Control Center Tweaks",
-    "description": "Make your control center yours!",
-    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/cc.jpeg",
-    "tags": ["package"],
-    "dateCreated": "12.17.20",
-    "datePublished": "12.27.20",
-    "content": "# 5 Must-Have Control Center Tweaks\n___\n<br>\n \n<h3> 1. CCSupport by Opa334 </h3>\n \n<imgcard2>\n \n![CCSupport Image](https://i.imgur.com/z7Z2JvP.jpg)\n### CCSupport is an essential tweak that adds support for custom control center modules and unlocks custom placement for all modules.<br> **Repo**: [Opa334’s Repo](https://opa334.github.io)\n \n</imgcard2>\n \n<br>\n \n<h3> 2. CCModules by Jailbreak365</h3>\n \n<imgcard2>\n \n![CCModules Image](https://i.imgur.com/U0K7Onu.jpg)\n### CCmodules is an extension of CCSupport that adds custom control center modules for installed applications, with over 100 currently supported apps.<br> **Repo**: [BigBoss Repo](http://apt.thebigboss.org/repofiles/cydia)\n \n</imgcard2>\n \n<br>\n \n<h3> 3. BetterCCXI by Atwiiks</h3>\n \n<imgcard2>\n \n![BetterCCXI Image](https://i.imgur.com/jZxmEfO.jpg)\n### BetterCCXI is a tweak that allows users to customize the size of the connectivity, music and weather modules within the settings app to one of their presets.<br> **Repo**: [Packix Repo](http://repo.packix.com)\n \n</imgcard2>\n \n<br>\n \n<h3> 4. CC On & OFF by PoomSmart</h3>\n \n<imgcard2>\n \n![CC On & OFF Image](https://i.imgur.com/0kS5DWW.gif)\n### CC On & OFF is a continuation of the RealCC Tweak. It changes the connectivity module in control center to actually turn off wifi etc, as opposed to suspending them.<br> **Repo**: [PoomSmart's Repo](http://PoomSmart.github.io/repo/)\n \n</imgcard2>\n \n<br>\n \n<h3> 5. CCArtwork by Atwiiks</h3>\n \n<imgcard2>\n \n![CCArtwork Image](https://i.imgur.com/YmFtAss.jpg)\n### CCArtwork is a tweak that displays the current playing song's album artwork behind the media module in the control center.<br> **Repo**: [Packix Repo](http://repo.packix.com)\n \n</imgcard2>\n",
-    "featured": true
-  },
-  
-  {
-    "id": "postbox_stories",
-    "type": "StoryCardSmall",
-    "author": "@RuntimeOverflow",
-    "authorDesc": "iOS Tweak Developer",
-    "title": "Tweaks for you and your PC",
-    "description": "Speed up your workflow using these tweaks to connect your device and PC.",
-    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/bannerrrr.png",
-    "tags": ["package"],
-    "dateCreated": "12.14.20",
-    "datePublished": "12.25.20",
-    "content": "**Disclaimer:** Some of the below-mentioned tweaks may not work on public wifi networks (schools, coffee shops ...) due to port blocking. <br><br>\n\n## Boardy\n**by Greg0109**\n\nBoardy is a handy tweak, which allows you to sync your Clipboard with your computer, making it easy to work with your iPhone and PC at the same time. Currently, it supports copying text and images. It even supports syncing with multiple computers at the same time.\n\n**Compatible with:** macOS, Windows and Linux\n\n**Price:** $1.99\n\n**Compatability:** iOS 11+\n\n**Repository:** [repo.chariz.com](https://repo.chariz.com)\n\n**Requires installation of a server on your computer!** <br><br>\n\n\n## CumSync\n**by 1conan**\n\nNamed by [u/cameren102](https://www.reddit.com/u/cameren102/), this is yet another tweak, which syncs your Clipboard with your PC. However, this tweak is free and supports lower iOS versions than Boardy.\n\n**Compatible with:** macOS, Windows and Linux\n\n**Price:** Free\n\n**Compatability:** iOS 7+\n\n**Repository:** [repo.1conan.com](https://repo.1conan.com)\n\n**Requires installation of a server on your computer!** <br><br>\n\n\n## ForwardNotifier\n**by Greg0109**\n\nThis is another tweak by Greg0109, which allows you to receive your notifications on your PC or even on another iOS device. This tweak comes with a CC module to enable/disable the tweak. With an additional tweak called ForwardNotifierActivator, you can also use Activator to enable/disable the tweak. It also includes an option to blacklist certain apps, so you only receive notifications you really need.\n\n**Compatible with:** macOS, Windows, Linux, iOS\n\n**Price:** Free\n\n**Compatability:** iOS 9+\n\n**Repository:** [repo.chariz.com](https://repo.chariz.com)\n\n**Requires installation of a server on your computer!** <br><br>\n\n\n## SMServer\n**by Janshai**\n\nA tweak, which allows you to send messages right from your web browser, which means every operating system is supported. It includes the ability to not only send texts but also send attachments. You can send read receipts when viewing in browser and it supports desktop notifications.\n\n**Compatible with:** Any (Requires Web Browser)\n\n**Price:** Free\n\n**Compatability:** iOS 13+\n\n**Repository:** [repo.twickd.com](https://repo.twickd.com) <br><br>\n\n\n## Ekip\n**by maximehip**\n\nThis tweak is special as it only supports macOS. It allows you to see your notifications on your Mac. But not only that, you can access your control center right from your Mac, so you can enable/disable certain toggles whenever you want.\n\n**Compatible with:** macOS\n\n**Price:** $1.99\n\n**Compatability:** iOS 9+\n\n**Repository:** [repo.packix.com](https://repo.packix.com)\n\n**Requires installation of a server on your computer!**",
-    "featured": true
-  },
+    {
+        "id": "postbox_stories",
+        "type": "StoryCardSmall",
+        "author": "MinxterYT",
+        "authorDesc": "PostBox Author",
+        "title": "5 Must-Have Control Center Tweaks",
+        "description": "Make your control center yours!",
+        "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/cc.jpeg",
+        "tags": ["package"],
+        "dateCreated": "12.17.20",
+        "datePublished": "12.27.20",
+        "content": "# 5 Must-Have Control Center Tweaks\n___\n<br>\n \n<h3> 1. CCSupport by Opa334 </h3>\n \n<imgcard2>\n \n![CCSupport Image](https://i.imgur.com/z7Z2JvP.jpg)\n### CCSupport is an essential tweak that adds support for custom control center modules and unlocks custom placement for all modules.<br> **Repo**: [Opa334’s Repo](https://opa334.github.io)\n \n</imgcard2>\n \n<br>\n \n<h3> 2. CCModules by Jailbreak365</h3>\n \n<imgcard2>\n \n![CCModules Image](https://i.imgur.com/U0K7Onu.jpg)\n### CCmodules is an extension of CCSupport that adds custom control center modules for installed applications, with over 100 currently supported apps.<br> **Repo**: [BigBoss Repo](http://apt.thebigboss.org/repofiles/cydia)\n \n</imgcard2>\n \n<br>\n \n<h3> 3. BetterCCXI by Atwiiks</h3>\n \n<imgcard2>\n \n![BetterCCXI Image](https://i.imgur.com/jZxmEfO.jpg)\n### BetterCCXI is a tweak that allows users to customize the size of the connectivity, music and weather modules within the settings app to one of their presets.<br> **Repo**: [Packix Repo](http://repo.packix.com)\n \n</imgcard2>\n \n<br>\n \n<h3> 4. CC On & OFF by PoomSmart</h3>\n \n<imgcard2>\n \n![CC On & OFF Image](https://i.imgur.com/0kS5DWW.gif)\n### CC On & OFF is a continuation of the RealCC Tweak. It changes the connectivity module in control center to actually turn off wifi etc, as opposed to suspending them.<br> **Repo**: [PoomSmart's Repo](http://PoomSmart.github.io/repo/)\n \n</imgcard2>\n \n<br>\n \n<h3> 5. CCArtwork by Atwiiks</h3>\n \n<imgcard2>\n \n![CCArtwork Image](https://i.imgur.com/YmFtAss.jpg)\n### CCArtwork is a tweak that displays the current playing song's album artwork behind the media module in the control center.<br> **Repo**: [Packix Repo](http://repo.packix.com)\n \n</imgcard2>\n",
+        "featured": true
+    },
 
-  {
-    "id": "postbox_stories",
-    "type": "StoryCardSmall",
-    "author": "@ExeRhythm",
-    "authorDesc": "iOS Developer, fan of jailbreaking",
-    "title": "Best 3 Among Us inspired tweaks",
-    "description": "3 tweaks for fans of a game called “Among Us”",
-    "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/amongus.jpeg",
-    "tags": ["package"],
-    "dateCreated": "12.13.20",
-    "datePublished": "12.23.20",
-    "content": "Are you a fan of a game called \"Among Us\"? Play it 12 hours a day? Then these tweaks are for you!\n\n## **0. SnowBoard**\nThis tweak is not related to Among Us, but it is needed for the next tweak. This is a theme manager.\n\n_Repo: [https://sparkdev.me]()_\n\n_Price: **Free**_\n\n## **1. AmongOS**\nThis theme replaces 481 icons on your Home Screen to Among Us styled ones. The icons are high resolution and well made.\n\n_Repo: [https://repo.packix.com]()_\n\n_Price: **$1.99**_\n\n## **2. AmongLock**\nThis tweak is my favourite on this list. It changes the Lock Screen completely. Remember that super-long task in Reactor? That will be your new Lock Screen.\n\nIf you enter correct passcode, you will unlock your phone.\nIf you enter the wrong passcode, the ejection animation plays.\n\n_Repo: [https://repo.litten.love]()_\n\n_Price: **Free**_\n\n## **3. Not An Impostor**\nHave you ever wondered where ejected crewmates went?\n\nThis tweak allows you to see fellow crewmates from Among Us games who were falsesly accused and ejected on your Home Screen.\n\nUnlike other Home Screen tweaks, it consumes very little power (unless you stare at it for a couple of hours, of course)\n\n_Repo: [https://repo.pixelomer.com]()_\n\n_Price: **Free**_",
-    "featured": true
-  },
+    {
+        "id": "postbox_stories",
+        "type": "StoryCardSmall",
+        "author": "@RuntimeOverflow",
+        "authorDesc": "iOS Tweak Developer",
+        "title": "Tweaks for you and your PC",
+        "description": "Speed up your workflow using these tweaks to connect your device and PC.",
+        "img": "https://raw.githubusercontent.com/PostBox-Team/PostBox-Data/master/images/bannerrrr.png",
+        "tags": ["package"],
+        "dateCreated": "12.14.20",
+        "datePublished": "12.25.20",
+        "content": "**Disclaimer:** Some of the below-mentioned tweaks may not work on public wifi networks (schools, coffee shops ...) due to port blocking. <br><br>\n\n## Boardy\n**by Greg0109**\n\nBoardy is a handy tweak, which allows you to sync your Clipboard with your computer, making it easy to work with your iPhone and PC at the same time. Currently, it supports copying text and images. It even supports syncing with multiple computers at the same time.\n\n**Compatible with:** macOS, Windows and Linux\n\n**Price:** $1.99\n\n**Compatability:** iOS 11+\n\n**Repository:** [repo.chariz.com](https://repo.chariz.com)\n\n**Requires installation of a server on your computer!** <br><br>\n\n\n## CumSync\n**by 1conan**\n\nNamed by [u/cameren102](https://www.reddit.com/u/cameren102/), this is yet another tweak, which syncs your Clipboard with your PC. However, this tweak is free and supports lower iOS versions than Boardy.\n\n**Compatible with:** macOS, Windows and Linux\n\n**Price:** Free\n\n**Compatability:** iOS 7+\n\n**Repository:** [repo.1conan.com](https://repo.1conan.com)\n\n**Requires installation of a server on your computer!** <br><br>\n\n\n## ForwardNotifier\n**by Greg0109**\n\nThis is another tweak by Greg0109, which allows you to receive your notifications on your PC or even on another iOS device. This tweak comes with a CC module to enable/disable the tweak. With an additional tweak called ForwardNotifierActivator, you can also use Activator to enable/disable the tweak. It also includes an option to blacklist certain apps, so you only receive notifications you really need.\n\n**Compatible with:** macOS, Windows, Linux, iOS\n\n**Price:** Free\n\n**Compatability:** iOS 9+\n\n**Repository:** [repo.chariz.com](https://repo.chariz.com)\n\n**Requires installation of a server on your computer!** <br><br>\n\n\n## SMServer\n**by Janshai**\n\nA tweak, which allows you to send messages right from your web browser, which means every operating system is supported. It includes the ability to not only send texts but also send attachments. You can send read receipts when viewing in browser and it supports desktop notifications.\n\n**Compatible with:** Any (Requires Web Browser)\n\n**Price:** Free\n\n**Compatability:** iOS 13+\n\n**Repository:** [repo.twickd.com](https://repo.twickd.com) <br><br>\n\n\n## Ekip\n**by maximehip**\n\nThis tweak is special as it only supports macOS. It allows you to see your notifications on your Mac. But not only that, you can access your control center right from your Mac, so you can enable/disable certain toggles whenever you want.\n\n**Compatible with:** macOS\n\n**Price:** $1.99\n\n**Compatability:** iOS 9+\n\n**Repository:** [repo.packix.com](https://repo.packix.com)\n\n**Requires installation of a server on your computer!**",
+        "featured": true
+    },
 
   {
     "id": "postbox_stories",
